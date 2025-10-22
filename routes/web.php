@@ -83,6 +83,9 @@ Route::get('hospital-details/{id}',[FrontendController::class,'HospitalDetails']
 Route::get('/',[FrontendController::class, 'index'])->name('laf.home');
 Route::get('/about',[FrontendController::class,'about'])->name('about');
 Route::get('/contact',[FrontendController::class,'contact'])->name('contact');
+Route::get('/faqs',[FrontendController::class,'faqs'])->name('faqs');
+Route::get('collection/all-products',[FrontendController::class,'allProducts'])->name('all.products');
+Route::get('collections/',[FrontendController::class,'collections'])->name('collections');
 Route::get('/service',[FrontendController::class,'service'])->name('service');
 // Route::get('/product',[HomeController::class,'product'])->name('product');
 

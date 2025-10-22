@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js " lang="en">
   
-<!-- Mirrored from la-flawless.com/pages/contact by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:34 GMT -->
+<!-- Mirrored from la-flawless.com/collections/all-products by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:03:23 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#282828">
     <meta name="format-detection" content="telephone=no">
-    <link rel="canonical" href="contact.html">
+    <link rel="canonical" href="all-products.html">
     <link rel="dns-prefetch" href="../index.html" crossorigin>
     <link rel="dns-prefetch" href="https://c1dy1b-7z.myshopify.com/" crossorigin>
     <link rel="dns-prefetch" href="https://cdn.shopify.com/" crossorigin>
@@ -18,7 +18,7 @@
     <link rel="preconnect" href="https/cdn.shopify.com" crossorigin>
     
     <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin><link rel="shortcut icon" href="../cdn/shop/files/FAVICONeff4.jpg?crop=center&amp;height=32&amp;v=1743622617&amp;width=32" type="image/png"><title>
-      Contact
+      All Products
       
       
       
@@ -27,13 +27,13 @@
       
     </title>
       <meta name="description" content=""><!-- /snippets/social-meta-tags.liquid --><meta property="og:site_name" content="La Flawless">
-<meta property="og:url" content="contact.html">
-<meta property="og:title" content="Contact">
-<meta property="og:type" content="website">
-<meta property="og:description" content="La Flawless">
-
+<meta property="og:url" content="all-products.html">
+<meta property="og:title" content="All Products">
+<meta property="og:type" content="product.group">
+<meta property="og:description" content="La Flawless"><meta property="og:image" content="../cdn/shop/collections/143113332.jpg?crop=center&amp;height=1200&amp;v=1742865457&amp;width=1200">
+<meta property="og:image:secure_url" content="../cdn/shop/collections/143113332.jpg?crop=center&amp;height=1200&amp;v=1742865457&amp;width=1200">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Contact">
+<meta name="twitter:title" content="All Products">
 <meta name="twitter:description" content="La Flawless">
 <script>
   document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
@@ -367,6 +367,9 @@ article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:bl
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/91697545529/digital_wallets/dialog">
 <meta name="shopify-checkout-api-token" content="5f9ebbc6f226533908b1f5966c0709ab">
 <meta id="in-context-paypal-metadata" data-shop-id="91697545529" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<link rel="alternate" type="application/atom+xml" title="Feed" href="all-products.atom" />
+<link rel="next" href="all-products4658.html?page=2">
+<link rel="alternate" type="application/json+oembed" href="all-products.oembed">
 <script async="async" src="../checkouts/internal/preloadsc494.js?locale=en-US"></script>
 <link rel="preconnect" href="https://shop.app/" crossorigin="anonymous">
 <script async="async" src="../../shop.app/checkouts/internal/preloads51b0.js?locale=en-US&amp;shop_id=91697545529" crossorigin="anonymous"></script>
@@ -390,7 +393,7 @@ Shopify.routes.root = "../index.html";</script>
   window.ShopifyPay.apiHost = "shop.app\/pay";
   window.ShopifyPay.redirectState = null;
 </script>
-<script id="shop-js-analytics" type="application/json">{"pageType":"page"}</script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"collection"}</script>
 <script defer="defer" async type="module" src="../cdn/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js"></script>
 <script defer="defer" async type="module" src="../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.js"></script>
 <script type="module">
@@ -405,7 +408,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
   window.Shopify.featureAssets['shop-js'] = {"shop-cart-sync":["modules/v2/client.shop-cart-sync_CTGr-3o4.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-fed-cm":["modules/v2/client.init-fed-cm_CGF9jeV0.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"shop-button":["modules/v2/client.shop-button_BPsTvJyZ.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/client.init-shop-email-lookup-coordinator_Cbpsqg7d.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"shop-toast-manager":["modules/v2/client.shop-toast-manager_DOipcY5l.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-cart-sync":["modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"checkout-modal":["modules/v2/client.checkout-modal_BeUNN4fT.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-windoid":["modules/v2/client.init-windoid_Dk--3zzj.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/client.init-shop-for-new-customer-accounts_Dk0dH699.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-customer-accounts-sign-up":["modules/v2/client.init-customer-accounts-sign-up_C7rSmI9p.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"shop-cash-offers":["modules/v2/client.shop-cash-offers_CY4AWDtE.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"pay-button":["modules/v2/client.pay-button_By6CviVO.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"avatar":["modules/v2/client.avatar_BTnouDA3.en.esm.js"],"shop-follow-button":["modules/v2/client.shop-follow-button_BAbNbYmC.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-customer-accounts":["modules/v2/client.init-customer-accounts_NzKd5XoX.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"shop-login-button":["modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"lead-capture":["modules/v2/client.lead-capture_PHcU60pL.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"payment-terms":["modules/v2/client.payment-terms_BG7_anoE.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"]};
 </script>
-<script id="__st">var __st={"a":91697545529,"offset":-14400,"reqid":"a26402fb-95e8-44fa-904f-9f8cd1c7b294-1759737579","pageurl":"la-flawless.com\/pages\/contact","s":"pages-154419790137","u":"71989edc82cb","p":"page","rtyp":"page","rid":154419790137};</script>
+<script id="__st">var __st={"a":91697545529,"offset":-14400,"reqid":"187fe6e3-ef9c-4ba9-825c-38d77178891b-1759737577","pageurl":"la-flawless.com\/collections\/all-products","u":"74c48a135fba","p":"collection","rtyp":"collection","rid":493801701689};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='../../cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
 <script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="../cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
@@ -443,15 +446,15 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 }
 
       </style>
-<script id="sections-script" data-sections="parallax-banner,footer" defer="defer" src="../cdn/shop/t/13/compiled_assets/scriptsdc6a.js?469"></script>
+<script id="sections-script" data-sections="main-collection-template,footer" defer="defer" src="../cdn/shop/t/13/compiled_assets/scriptsdc6a.js?469"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
   <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 91697545529,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,d,r,n,o){if(void 0===o&&(o={}),!Boolean(null===(a=null===(i=window.Shopify)||void 0===i?void 0:i.analytics)||void 0===a?void 0:a.replayQueue)){var i,a;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),u="modern"===l?"modern":"legacy",c=(null!=n?n:{modern:"",legacy:""})[u],f=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:d,hashVersion:r,buildTarget:u}),m=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST.html",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:r,bundleTarget:l,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{o.browserTarget=l,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,a&&(l.integrity=a,l.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{l.dataset[f]=s[f]}catch(e){}if(o&&l.addEventListener("load",o),i&&l.addEventListener("error",i),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:f,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){var d=window.webPixelsManager.init(e)||void 0;if(d){var r=window.Shopify.analytics;r.replayQueue.forEach((function(e){var r=e[0],n=e[1],o=e[2];d.publishCustomEvent(r,n,o)})),r.replayQueue=[],r.publish=d.publishCustomEvent,r.visitor=d.visitor,r.initialized=!0}}},onerror:function(){return m.emit({status:"failed",errorMsg:"".concat(f," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(c)?c:"",scriptDataAttributes:o}),m.emit({status:"loading"})}catch(e){m.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 91697545529,storefrontBaseUrl: "https://la-flawless.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"1155268921","configuration":"{\"config\":\"{\\\"pixel_id\\\":\\\"G-WZMP5GD7WT\\\",\\\"google_tag_ids\\\":[\\\"G-WZMP5GD7WT\\\",\\\"GT-TBWHMK96\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"b2a88bafab3e21179ed38636efcd8a93","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"1115750713","configuration":"{\"pixel_id\":\"1360095635355913\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"ca16bc87fe92b6042fbaa3acc2fbdaa6","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"La Flawless","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"c1dy1b-7z.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/la-flawless.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},"../cdn.html","4f0c5c77w64a73806p128ba08bma5b58f2f",{"modern":"","legacy":""},{"shopId":"91697545529","storefrontBaseUrl":"https:\/\/la-flawless.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[]","isMerchantRequest":"false","hashVersion":"4f0c5c77w64a73806p128ba08bma5b58f2f","publish":"custom","events":"[[\"page_viewed\",{}]]"});</script><script>
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 91697545529,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "collection"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,d,r,n,o){if(void 0===o&&(o={}),!Boolean(null===(a=null===(i=window.Shopify)||void 0===i?void 0:i.analytics)||void 0===a?void 0:a.replayQueue)){var i,a;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),u="modern"===l?"modern":"legacy",c=(null!=n?n:{modern:"",legacy:""})[u],f=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:d,hashVersion:r,buildTarget:u}),m=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST.html",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:r,bundleTarget:l,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{o.browserTarget=l,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,a&&(l.integrity=a,l.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{l.dataset[f]=s[f]}catch(e){}if(o&&l.addEventListener("load",o),i&&l.addEventListener("error",i),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:f,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){var d=window.webPixelsManager.init(e)||void 0;if(d){var r=window.Shopify.analytics;r.replayQueue.forEach((function(e){var r=e[0],n=e[1],o=e[2];d.publishCustomEvent(r,n,o)})),r.replayQueue=[],r.publish=d.publishCustomEvent,r.visitor=d.visitor,r.initialized=!0}}},onerror:function(){return m.emit({status:"failed",errorMsg:"".concat(f," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(c)?c:"",scriptDataAttributes:o}),m.emit({status:"loading"})}catch(e){m.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 91697545529,storefrontBaseUrl: "https://la-flawless.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"1155268921","configuration":"{\"config\":\"{\\\"pixel_id\\\":\\\"G-WZMP5GD7WT\\\",\\\"google_tag_ids\\\":[\\\"G-WZMP5GD7WT\\\",\\\"GT-TBWHMK96\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"b2a88bafab3e21179ed38636efcd8a93","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"1115750713","configuration":"{\"pixel_id\":\"1360095635355913\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"ca16bc87fe92b6042fbaa3acc2fbdaa6","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"La Flawless","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"c1dy1b-7z.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/la-flawless.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},"../cdn.html","4f0c5c77w64a73806p128ba08bma5b58f2f",{"modern":"","legacy":""},{"shopId":"91697545529","storefrontBaseUrl":"https:\/\/la-flawless.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[]","isMerchantRequest":"false","hashVersion":"4f0c5c77w64a73806p128ba08bma5b58f2f","publish":"custom","events":"[[\"page_viewed\",{}],[\"collection_viewed\",{\"collection\":{\"id\":\"493801701689\",\"title\":\"All Products\",\"productVariants\":[{\"price\":{\"amount\":24.99,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Niacinamide \u0026 Papaya Brightening Serum\",\"vendor\":\"La Flawless\",\"id\":\"9748400767289\",\"untranslatedTitle\":\"Niacinamide \u0026 Papaya Brightening Serum\",\"url\":\"\/products\/niacinamide-papaya-brightening-serum\",\"type\":\"Serum\"},\"id\":\"50450965954873\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133\"},\"sku\":\"\",\"title\":\"1.3 oz \/ 40 ml\",\"untranslatedTitle\":\"1.3 oz \/ 40 ml\"},{\"price\":{\"amount\":34.99,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Korean Glass Skin Renewing Serum\",\"vendor\":\"My Store\",\"id\":\"9748980793657\",\"untranslatedTitle\":\"Korean Glass Skin Renewing Serum\",\"url\":\"\/products\/korean-glass-skin-renewing-serum\",\"type\":\"Serum\"},\"id\":\"50450955108665\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/KoreanGlassSkinRenewingSerum.jpg?v=1737385771\"},\"sku\":\"\",\"title\":\"1.3 oz \/ 40 ml\",\"untranslatedTitle\":\"1.3 oz \/ 40 ml\"},{\"price\":{\"amount\":99.99,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Skin Boosting Supreme Mask\",\"vendor\":\"La Flawless\",\"id\":\"9748984103225\",\"untranslatedTitle\":\"Skin Boosting Supreme Mask\",\"url\":\"\/products\/skin-boosting-supreme-mask\",\"type\":\"Mask\"},\"id\":\"50450950783289\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/SkinBoostingSupremeMask.jpg?v=1737386326\"},\"sku\":\"\",\"title\":\"3.4 oz \/ 100 ml\",\"untranslatedTitle\":\"3.4 oz \/ 100 ml\"},{\"price\":{\"amount\":27.99,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Niacinamide \u0026 Caviar Firming Serum\",\"vendor\":\"La Flawless\",\"id\":\"9748984529209\",\"untranslatedTitle\":\"Niacinamide \u0026 Caviar Firming Serum\",\"url\":\"\/products\/niacinamide-caviar-firming-serum\",\"type\":\"Serum\"},\"id\":\"50450960711993\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119\"},\"sku\":\"\",\"title\":\"1.3 oz \/ 40 ml\",\"untranslatedTitle\":\"1.3 oz \/ 40 ml\"},{\"price\":{\"amount\":24.99,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Vitamin C Serum\",\"vendor\":\"La Flawless\",\"id\":\"9748985479481\",\"untranslatedTitle\":\"Vitamin C Serum\",\"url\":\"\/products\/vitamin-c-serum\",\"type\":\"Serum\"},\"id\":\"50450958680377\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/VitaminCSerum.jpg?v=1737386348\"},\"sku\":\"\",\"title\":\"1.3 oz \/ 40 ml\",\"untranslatedTitle\":\"1.3 oz \/ 40 ml\"},{\"price\":{\"amount\":30.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Platinum Intensive Brightening Serum\",\"vendor\":\"La Flawless\",\"id\":\"9748985839929\",\"untranslatedTitle\":\"Platinum Intensive Brightening Serum\",\"url\":\"\/products\/platinum-intensive-brightening-serum\",\"type\":\"Serum\"},\"id\":\"50450952454457\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146\"},\"sku\":\"\",\"title\":\"1.3 oz \/ 40 ml\",\"untranslatedTitle\":\"1.3 oz \/ 40 ml\"},{\"price\":{\"amount\":25.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Green Tea Oil-free Hydrating Moisturizer\",\"vendor\":\"La Flawless\",\"id\":\"9748986593593\",\"untranslatedTitle\":\"Green Tea Oil-free Hydrating Moisturizer\",\"url\":\"\/products\/green-tea-oil-free-hydrating-moisturizer\",\"type\":\"Moisturizer\"},\"id\":\"50450939838777\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745\"},\"sku\":\"\",\"title\":\"1.7 oz \/ 50 ml\",\"untranslatedTitle\":\"1.7 oz \/ 50 ml\"},{\"price\":{\"amount\":25.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Lactic Acid Activating Moisturizer\",\"vendor\":\"La Flawless\",\"id\":\"9748987347257\",\"untranslatedTitle\":\"Lactic Acid Activating Moisturizer\",\"url\":\"\/products\/lactic-acid-activating-moisturizer\",\"type\":\"Moisturizer\"},\"id\":\"50450938593593\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/LacticAcidActivatingMoisturizer.jpg?v=1737386077\"},\"sku\":\"\",\"title\":\"1.7 oz \/ 50 ml\",\"untranslatedTitle\":\"1.7 oz \/ 50 ml\"},{\"price\":{\"amount\":30.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Lactic Acid Balancing Toner\",\"vendor\":\"La Flawless\",\"id\":\"9748988461369\",\"untranslatedTitle\":\"Lactic Acid Balancing Toner\",\"url\":\"\/products\/lactic-acid-balancing-toner\",\"type\":\"Toner\"},\"id\":\"50450947309881\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/LacticAcidBalancingToner.jpg?v=1737386087\"},\"sku\":\"\",\"title\":\"4 oz \/ 120 ml\",\"untranslatedTitle\":\"4 oz \/ 120 ml\"},{\"price\":{\"amount\":30.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Tranxemic Acid Brightening Toner\",\"vendor\":\"La Flawless\",\"id\":\"9748988952889\",\"untranslatedTitle\":\"Tranxemic Acid Brightening Toner\",\"url\":\"\/products\/tranxemic-acid-brightening-toner\",\"type\":\"Toner\"},\"id\":\"50450948096313\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/TranxemicAcidBrighteningToner.jpg?v=1737386337\"},\"sku\":\"\",\"title\":\"4 oz \/ 120 ml\",\"untranslatedTitle\":\"4 oz \/ 120 ml\"},{\"price\":{\"amount\":30.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Green Tea Soothing Toner\",\"vendor\":\"La Flawless\",\"id\":\"9748989411641\",\"untranslatedTitle\":\"Green Tea Soothing Toner\",\"url\":\"\/products\/green-tea-soothing-toner\",\"type\":\"Toner\"},\"id\":\"50450946523449\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/GreenTeaSoothingToner.jpg?v=1737386029\"},\"sku\":\"\",\"title\":\"4 oz \/ 120 ml\",\"untranslatedTitle\":\"4 oz \/ 120 ml\"},{\"price\":{\"amount\":30.0,\"currencyCode\":\"USD\"},\"product\":{\"title\":\"Rose Elixir Hydrating Toner\",\"vendor\":\"La Flawless\",\"id\":\"9748989608249\",\"untranslatedTitle\":\"Rose Elixir Hydrating Toner\",\"url\":\"\/products\/rose-elixir-hydrating-toner\",\"type\":\"Toner\"},\"id\":\"50450942886201\",\"image\":{\"src\":\"\/\/la-flawless.com\/cdn\/shop\/files\/RoseElixirHydratingToner.jpg?v=1737386303\"},\"sku\":\"\",\"title\":\"4 oz \/ 120 ml\",\"untranslatedTitle\":\"4 oz \/ 120 ml\"}]}}]]"});</script><script>
   window.ShopifyAnalytics = window.ShopifyAnalytics || {};
   window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
   window.ShopifyAnalytics.meta.currency = 'USD';
-  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":154419790137}};
+  var meta = {"products":[{"id":9748400767289,"gid":"gid:\/\/shopify\/Product\/9748400767289","vendor":"La Flawless","type":"Serum","variants":[{"id":50450965954873,"price":2499,"name":"Niacinamide \u0026 Papaya Brightening Serum - 1.3 oz \/ 40 ml","public_title":"1.3 oz \/ 40 ml","sku":""}],"remote":false},{"id":9748980793657,"gid":"gid:\/\/shopify\/Product\/9748980793657","vendor":"My Store","type":"Serum","variants":[{"id":50450955108665,"price":3499,"name":"Korean Glass Skin Renewing Serum - 1.3 oz \/ 40 ml","public_title":"1.3 oz \/ 40 ml","sku":""}],"remote":false},{"id":9748984103225,"gid":"gid:\/\/shopify\/Product\/9748984103225","vendor":"La Flawless","type":"Mask","variants":[{"id":50450950783289,"price":9999,"name":"Skin Boosting Supreme Mask - 3.4 oz \/ 100 ml","public_title":"3.4 oz \/ 100 ml","sku":""}],"remote":false},{"id":9748984529209,"gid":"gid:\/\/shopify\/Product\/9748984529209","vendor":"La Flawless","type":"Serum","variants":[{"id":50450960711993,"price":2799,"name":"Niacinamide \u0026 Caviar Firming Serum - 1.3 oz \/ 40 ml","public_title":"1.3 oz \/ 40 ml","sku":""}],"remote":false},{"id":9748985479481,"gid":"gid:\/\/shopify\/Product\/9748985479481","vendor":"La Flawless","type":"Serum","variants":[{"id":50450958680377,"price":2499,"name":"Vitamin C Serum - 1.3 oz \/ 40 ml","public_title":"1.3 oz \/ 40 ml","sku":""}],"remote":false},{"id":9748985839929,"gid":"gid:\/\/shopify\/Product\/9748985839929","vendor":"La Flawless","type":"Serum","variants":[{"id":50450952454457,"price":3000,"name":"Platinum Intensive Brightening Serum - 1.3 oz \/ 40 ml","public_title":"1.3 oz \/ 40 ml","sku":""}],"remote":false},{"id":9748986593593,"gid":"gid:\/\/shopify\/Product\/9748986593593","vendor":"La Flawless","type":"Moisturizer","variants":[{"id":50450939838777,"price":2500,"name":"Green Tea Oil-free Hydrating Moisturizer - 1.7 oz \/ 50 ml","public_title":"1.7 oz \/ 50 ml","sku":""}],"remote":false},{"id":9748987347257,"gid":"gid:\/\/shopify\/Product\/9748987347257","vendor":"La Flawless","type":"Moisturizer","variants":[{"id":50450938593593,"price":2500,"name":"Lactic Acid Activating Moisturizer - 1.7 oz \/ 50 ml","public_title":"1.7 oz \/ 50 ml","sku":""}],"remote":false},{"id":9748988461369,"gid":"gid:\/\/shopify\/Product\/9748988461369","vendor":"La Flawless","type":"Toner","variants":[{"id":50450947309881,"price":3000,"name":"Lactic Acid Balancing Toner - 4 oz \/ 120 ml","public_title":"4 oz \/ 120 ml","sku":""}],"remote":false},{"id":9748988952889,"gid":"gid:\/\/shopify\/Product\/9748988952889","vendor":"La Flawless","type":"Toner","variants":[{"id":50450948096313,"price":3000,"name":"Tranxemic Acid Brightening Toner - 4 oz \/ 120 ml","public_title":"4 oz \/ 120 ml","sku":""}],"remote":false},{"id":9748989411641,"gid":"gid:\/\/shopify\/Product\/9748989411641","vendor":"La Flawless","type":"Toner","variants":[{"id":50450946523449,"price":3000,"name":"Green Tea Soothing Toner - 4 oz \/ 120 ml","public_title":"4 oz \/ 120 ml","sku":""}],"remote":false},{"id":9748989608249,"gid":"gid:\/\/shopify\/Product\/9748989608249","vendor":"La Flawless","type":"Toner","variants":[{"id":50450942886201,"price":3000,"name":"Rose Elixir Hydrating Toner - 4 oz \/ 120 ml","public_title":"4 oz \/ 120 ml","sku":""}],"remote":false}],"page":{"pageType":"collection","resourceType":"collection","resourceId":493801701689}};
   for (var attr in meta) {
     window.ShopifyAnalytics.meta[attr] = meta[attr];
   }
@@ -582,7 +585,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
       first.parentNode.insertBefore(script, first);
     };
     trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":91697545529,"isMerchantRequest":null,"themeId":176745873721,"themeCityHash":"8650445374202198465","contentLanguage":"en","currency":"USD","eventMetadataId":"909cb703-9e13-4e55-ad27-f6a7fb6937f6"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":91697545529,"isMerchantRequest":null,"themeId":176745873721,"themeCityHash":"8650445374202198465","contentLanguage":"en","currency":"USD","eventMetadataId":"51b55c6b-3abb-4f0c-953e-82452a05b4cc"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
     );
 
     var loaded = false;
@@ -597,13 +600,13 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":154419790137,"shopifyEmitted":true});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"collection","resourceType":"collection","resourceId":493801701689,"shopifyEmitted":true});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
       if (!hasLoggedConversion(token)) {
         setCookieIfConversion(token);
-        
+        window.ShopifyAnalytics.lib.track("Viewed Product Category",{"currency":"USD","category":"Collection: all-products","collectionName":"all-products","collectionId":493801701689,"nonInteraction":true},undefined,undefined,{"shopifyEmitted":true});
       }
     });
 
@@ -620,7 +623,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   data-application="storefront-renderer"
   data-shop-id="91697545529"
   data-render-region="gcp-asia-southeast1"
-  data-page-type="page"
+  data-page-type="collection"
   data-theme-instance-id="176745873721"
   data-theme-name="Aarau"
   data-theme-version="1.0"
@@ -632,7 +635,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   data-shs-logs-sample-rate="1"
 ></script>
 </head>
-  <body class="template-page body-theme ">
+  <body class="template-collection body-theme ">
    
     <img  width="99998" height="99999" alt="index" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+"><!-- loading.liquid -->
 <style>
@@ -734,7 +737,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
                     
 </div><div class="col-lg-4 col-left col-12">
                 <div class="text-center w-100 d-flex gap-2 justify-content-center text-body">
-                    Free shipping in the BD
+                    Free shipping in the U.S.
 </div>
                 </div><div class="col-4 col-right text-right d-none d-lg-flex justify-content-end">
 </div>
@@ -2527,179 +2530,1661 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     </div>
   </div>
 </div></div><div id="shopify-section-sections--24382004330809__store-messages" class="shopify-section shopify-section-group-header-group"></div>
-<!-- END sections: header-group --><div class="page-container page-element is-moved-by-drawer"><main class="main-content" id="MainContent" role="main">
+<!-- END sections: header-group --><div class="page-container page-element is-moved-by-drawer">
+<main class="main-content" id="MainContent" role="main">
 
 
-          <section id="shopify-section-template--24382013931833__main" class="shopify-section spaced-section"><style>.page-title{margin-bottom:40px;}.main-content{padding:0;}.content-block--page ul,.content-block--page ol{padding-left:1rem;}</style>
-<div class="container">
-  <!-- <h1 class="text-center page-title">Contact</h1> -->
-  <div class="content-block--page ">
-    
-  </div>
-</div>
-</section><div id="shopify-section-template--24382013931833__parallax_banner_VeVwaq" class="shopify-section index-section"><!-- parallax-banner --><style>
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
-    --st-parallax-height :650px;
-    --st-bgvideo-height-mb :450px;
-    min-height : var(--st-parallax-height);
-    padding-top:4rem;
-    padding-bottom:4rem;
-  }
-  @media( max-width:749px){
-    .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
-      min-height :  var(--st-bgvideo-height-mb);
-    }
+          <div id="shopify-section-template--24382013374777__collection-banner" class="shopify-section section"><style>
+  
+.main-content{
+  padding: 0;
+}
+.collection-hero{
+  position: relative;
+  overflow: hidden;
+  --section-height:550px;
+  --section-overlay: 0, 0, 0;
+  --section-opacity : 0.3;
+
+}
+.collection-list .list-inline-item:not(:last-child){
+  margin-right: 1.5rem;
+}
+.collection-list li a{
+  position: relative;
+}
+.collection-list li a::before{
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: -4px;
+  width: 0;
+  border-bottom: 1px solid var(--color-body-text);
+  -webkit-transition: width .3s ease;
+  transition: width .3s ease;
+  z-index: 7;
+}
+.collection-list li a:hover:before,.collection-list li a.active:before{
+  width: 100%;
+  left: 0;
+}
+  .collection-hero-container{
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
   }
   
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq .parallax-banner__meta{
-    padding:40px;
-  }
-
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq .parallax-banner__meta::before{
-    background-color: rgba(0,0,0,0) ;
-    opacity: 1;
-  }
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq::before{
-    content:"";
-        position: absolute;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: 1;
-        background:#000000;
-      opacity: 0.1;
-  }
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
-    
-      --g-font-color-subtop: #ffffff;
-      --g-color-heading :  #ffffff;
-      --color-body-text : #ffffff;
-      --color-body-text-rgb: 255, 255,  255 ;
-    
-  }
-  </style>
-<div class="customstyletemplate--24382013931833__parallax_banner_VeVwaq " data-aos=""><style data-shopify>.customstyletemplate--24382013931833__parallax_banner_VeVwaq{
-      background-color:#ffffff;
-      padding: 0px 0px 0px 0px;
-      margin: 0px 0px 0px 0px;
-      
-    }@media (max-width:750px){
-      .customstyletemplate--24382013931833__parallax_banner_VeVwaq{
-        padding: ;
-        margin: 
-      }
-    }</style><div class="full">
-<div class="section-block"  >
-  <section class="d-flex align-items-center justify-content-center text-center parallax-template--24382013931833__parallax_banner_VeVwaq parallax-container parallax-banner__wraper  parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq parallax-banner__wraper--has-background" data-section-id="template--24382013931833__parallax_banner_VeVwaq" data-section-type="parallax-image" ><img src="../cdn/shop/files/d53cb0a3fdaade.jpg?v=1737380399&amp;width=3840" alt="" srcset="//la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=375 375w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=550 550w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=750 750w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1100 1100w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1500 1500w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1780 1780w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=2000 2000w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=3000 3000w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=3840 3840w" width="1000" height="667" loading="lazy" sizes="100vw" class="lazyload img-bg">
- 
-       <div class="container">
-        <div class="parallax-banner__meta text-center">
-          
-<h2 class="mb-3 h2">Contact Us</h2>
-        
-          <div class="parallax-banner__btn  justify-content-center  align-items-center"></div>
-        </div>
-      </div>
-  </section>
-</div>
-</div>
-</div>
-
-</div><div id="shopify-section-template--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9" class="shopify-section index-section"><!-- line.liquid -->
-<style>
-    .customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9 .border-custom{
-        border-top-width: 1px !important;
-        border-color: #e7e7e7 !important;
+  @media screen and (min-width: 750px){
+    .collection-hero__description{
+      padding:0 16rem;
     }
+    .collection-hero{
+      padding: 0;
+    }
+  }
+
+  .collection-hero .image-content__image{
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+  }
+  .collection-hero-container{
+    min-height: var(--section-height);
+  }
+  .collection-hero-banner{
+    padding-top:0 !important;
+  }
+
+  .collection-hero__title,.collection-hero__description{
+    color:#ffffff;
+    --color-body-text: #ffffff;
+    --g-color-heading: #ffffff
+  }
+  .collection-hero::before{
+    content: "";
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(var(--section-overlay), var(--section-opacity));
+    z-index: 1;
+  }
+  .breadcrumbs-collection .breadcrumbs, .breadcrumbs-collection .breadcrumbs a, .breadcrumbs-collection .breadcrumbs span{
+    --color-body-text: #ffffff;
+    color:#ffffff;
+  }
+  .breadcrumbs-collection{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 10;
+  }
+
+
+/*Breaddrumb Collection*/
+.breadcrumbs__item{
+  display: flex; 
+  align-items: center;
+}
+.breadcrumbs-collection .breadcrumbs .breadcrumb__divider{
+  padding: 0 0.5rem;
+  line-height: 20px;
+  display: inline-block;
+}
+.breadcrumbs__list{
+  list-style-type:none;
+}
+
 </style>
-<div class="customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9" data-aos="fade"><style data-shopify>.customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9{
-      background-color:#ffffff;
-      padding: 0px 0px 0px 0px;
-      margin: 0px 0px 0px 0px;
-      
-    }@media (max-width:750px){
-      .customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9{
-        padding: ;
-        margin: 
-      }
-    }</style><div class="full">
-      <div class="border-top border-custom">
-      </div>
+<div class="collection-banner position-relative"><div class="breadcrumbs-collection py-3">
+    <nav class="breadcrumbs container-fluid" role="navigation" aria-label="breadcrumbs" >
+      <ol class=" breadcrumbs__list d-flex">
+        <li class="breadcrumbs__item ">
+          <a href="../index.html" title="Home">Home</a>
+          <span class="breadcrumb__divider" aria-hidden="true">/</span>
+        </li><li class="breadcrumbs__item">
+              <span class="breadcrumbs__link" aria-current="page">All Products</span>
+            </li></ol>
+    </nav>
+  </div><div class="image-content__image-wrapper d-flex align-items-center collection-hero  collection-hero-banner  " style="padding-top:123.65384615384616%;" ><img src="../cdn/shop/collections/14311513a.jpg?v=1742865457&amp;width=3840" alt="All Products" srcset="//la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=375 375w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=550 550w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=750 750w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=1100 1100w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=1500 1500w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=1780 1780w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=2000 2000w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=3000 3000w, //la-flawless.com/cdn/shop/collections/14311.jpg?v=1742865457&amp;width=3840 3840w" width="4160" height="5144" sizes="100vw" fetchpriority="hight" class="image-content__image lazyload scale-in">
+<div class=" py-5 collection-hero-container d-flex align-items-center justify-content-center">
+      <div class="container text-center">
+        <h1 class="collection-hero__title h2">
+          <span class="visually-hidden">Collection: </span>
+          
+All Products
+         
+          
+        </h1>
+            <div class="collection-hero__description rte"></div>
+            
+</div>
     </div>
+  </div></div>
+</div><div id="shopify-section-template--24382013374777__product-grid" class="shopify-section section"><link href="../cdn/shop/t/13/assets/nouislider.min4062.css?v=37059483690359527951743108420" rel="stylesheet" type="text/css" media="all" />
+<link href="../cdn/shop/t/13/assets/template-collection6a42.css?v=101476613916100440701743108420" rel="stylesheet" type="text/css" media="all" />
+<link href="../cdn/shop/t/13/assets/component-loading-overlay8e2c.css?v=167310470843593579841743108420" rel="stylesheet" type="text/css" media="all" />
+<link href="../cdn/shop/t/13/assets/component-carde4d8.css?v=127413053002844137811743108420" rel="stylesheet" type="text/css" media="all" />
+
+<link href="../cdn/shop/t/13/assets/component-rted0be.css?v=69919436638515329781743108420" rel="stylesheet" type="text/css" media="all" />
+
+<script src="../cdn/shop/t/13/assets/ajaxinate.min58e8.js?v=57152288396203578481743108420" defer="defer"></script><style data-shopify>.section-template--24382013374777__product-grid-padding {
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
+
+  @media screen and (min-width: 750px) {
+    .section-template--24382013374777__product-grid-padding {
+      padding-top: 48px;
+      padding-bottom: 48px;
+    }
+  }</style><div class="main-collection section-template--24382013374777__product-grid-padding container collection-vertical " data-aos="fade">
+  
+<facet-filters-form class="facets facets-vertical-sort small-hide no-js-hidden d-none d-lg-block">
+      <form class="facets-vertical-form  " id="FacetSortForm"><div class="d-flex align-items-center gap-2 h-100  orview-wrap">
+          <span class="js-btn-view btn-view-2 " data-col="2"></span>
+          <span class="js-btn-view btn-view-3 active" data-col="3"></span>
+          <span class="js-btn-view btn-view-4 " data-col="4"></span>
+        </div>
+        <div class="d-flex align-items-center">
+          <div class="facet-filters sorting caption">
+            <div class="facet-filters__field">
+              <h2 class="facet-filters__label caption-large text-body">
+                <label for="SortBy-sidebar">Sort by:</label>
+              </h2>
+              <div class="select"><select name="sort_by" class="facet-filters__sort select__select caption-large" id="SortBy-sidebar" aria-describedby="a11y-refresh-page-message"><option value="manual">Featured</option><option value="best-selling">Best selling</option><option value="title-ascending">Alphabetically, A-Z</option><option value="title-descending">Alphabetically, Z-A</option><option value="price-ascending">Price, low to high</option><option value="price-descending">Price, high to low</option><option value="created-ascending" selected="selected">Date, old to new</option><option value="created-descending">Date, new to old</option></select>
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+              </div>
+            </div>
+            <noscript>
+              <button type="submit" class="facets__button-no-js button button--secondary">Sort</button>
+            </noscript>
+          </div>
+
+          <div class="product-count-vertical light" role="status">
+            <h2 id="ProductCountDesktop" class="product-count__text text-body font-family-2">
+              <span >22 products
+</span>
+            </h2>
+            <div class="loading-overlay__spinner">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+              </svg>
+            </div>
+          </div>  
+       </div>
+      </form>
+    </facet-filters-form><div class=" facets-vertical   row ">
+    <link href="../cdn/shop/t/13/assets/component-facets33b2.css?v=79442343124365269271743108420" rel="stylesheet" type="text/css" media="all" />
+<aside aria-labelledby="verticalTitle" class=" facets-wrapper 
+        
+        
+         
+          
+            col-md-3 v-col 
+          
+        " id="main-collection-filters" data-id="template--24382013374777__product-grid">
+        
+
+<link href="../cdn/shop/t/13/assets/component-show-morea5fe.css?v=176212711883275594291743108420" rel="stylesheet" type="text/css" media="all" />
+<div class="facets-container  pt-0 js-stick-parent"><facet-filters-form class="facets small-hide ">
+      <form id="FacetFiltersForm" class="facets__form-vertical">
+          
+          <div id="FacetsWrapperDesktop">
+<div class="active-facets active-facets-desktop">
+                <div class="active-facets-vertical-filter ">
+                  
+<h2 class="facets__heading facets__heading--vertical caption-large text-body h5" id="verticalTitle" tabindex="-1">Filter:</h2><facet-remove class="active-facets__button-wrapper">
+                    <a href="all-products.html" class="active-facets__button-remove underlined-link">
+                      <span>Clear all</span>
+                    </a>
+                  </facet-remove>
+                
+                </div>
+
+
+</div><script src="../cdn/shop/t/13/assets/show-more5bb9.js?v=90883108635033788741743108420" defer="defer"></script>
+
+              
+                <details id="Details-1-template--24382013374777__product-grid" 
+                class=" facets__disclosure-vertical js-filter" 
+                data-index="1"
+                 open >
+                  <summary class="facets__summary caption-large focus-offset" aria-label="Availability (0 selected)">
+                    <div>
+                      <span>Availability
+<span class="facets__selected no-js-hidden hidden "> 0</span></span>
+                      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                    </div>
+                  </summary>
+                  <div id="Facet-1-template--24382013374777__product-grid" class="parent-display facets__display-vertical"><fieldset class="facets-wrap parent-wrap  facets-wrap-vertical  
+                      
+                      
+                      ">
+                      <legend class="visually-hidden">Availability</legend>
+                      <ul class=" list-unstyled no-js-hidden" role="list"><li class="list-menu__item facets__item">
+                            <label for="Filter-filter.v.availability-1" class="facet-checkbox 
+                            "
+                              >
+                              <input type="checkbox"
+                                name="filter.v.availability"
+                                value="1"
+                                id="Filter-filter.v.availability-1"
+                                
+                                
+                              >
+
+                              <svg class="svg-box" width="1.6rem" height="1.6rem" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                                <rect width="16" height="16" stroke="currentColor" fill="none" stroke-width="1"></rect>
+                              </svg>
+
+                              <svg class="icon icon-checkmark"
+                                width="1.1rem"
+                                height="0.7rem"
+                                viewBox="0 0 11 7"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+
+                                <path d="M1.5 3.5L2.83333 4.75L4.16667 6L9.5 1"
+                                  stroke="currentColor"
+                                  stroke-width="1.75"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round" />
+                              </svg>In stock (22)<span class="visually-hidden">In stock (22 products)</span>
+                            </label>
+                          </li><li class="list-menu__item facets__item">
+                            <label for="Filter-filter.v.availability-2" class="facet-checkbox  facet-checkbox--disabled 
+                            "
+                              >
+                              <input type="checkbox"
+                                name="filter.v.availability"
+                                value="0"
+                                id="Filter-filter.v.availability-2"
+                                
+                                disabled
+                              >
+
+                              <svg class="svg-box" width="1.6rem" height="1.6rem" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                                <rect width="16" height="16" stroke="currentColor" fill="none" stroke-width="1"></rect>
+                              </svg>
+
+                              <svg class="icon icon-checkmark"
+                                width="1.1rem"
+                                height="0.7rem"
+                                viewBox="0 0 11 7"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+
+                                <path d="M1.5 3.5L2.83333 4.75L4.16667 6L9.5 1"
+                                  stroke="currentColor"
+                                  stroke-width="1.75"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round" />
+                              </svg>Out of stock (0)<span class="visually-hidden">Out of stock (0 products)</span>
+                            </label>
+                          </li></ul>
+                      
+                      <ul class=" no-js-list list-unstyled no-js" role="list"><li class="list-menu__item facets__item">
+                            <label for="Filter-filter.v.availability-1-no-js" class="facet-checkbox">
+                              <input type="checkbox"
+                                name="filter.v.availability"
+                                value="1"
+                                id="Filter-filter.v.availability-1-no-js"
+                                
+                                
+                              >
+
+                              <svg width="1.6rem" height="1.6rem" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                                <rect width="16" height="16" stroke="currentColor" fill="none" stroke-width="1"></rect>
+                              </svg>
+
+                              <svg class="icon icon-checkmark"
+                                width="1.1rem"
+                                height="0.7rem"
+                                viewBox="0 0 11 7"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+
+                                <path d="M1.5 3.5L2.83333 4.75L4.16667 6L9.5 1"
+                                  stroke="currentColor"
+                                  stroke-width="1.75"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round" />
+                              </svg>
+
+                              <span aria-hidden="true">In stock (22)</span>
+                              <span class="visually-hidden">In stock (22 products)</span>
+                            </label>
+                          </li><li class="list-menu__item facets__item">
+                            <label for="Filter-filter.v.availability-2-no-js" class="facet-checkbox facet-checkbox--disabled">
+                              <input type="checkbox"
+                                name="filter.v.availability"
+                                value="0"
+                                id="Filter-filter.v.availability-2-no-js"
+                                
+                                disabled
+                              >
+
+                              <svg width="1.6rem" height="1.6rem" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                                <rect width="16" height="16" stroke="currentColor" fill="none" stroke-width="1"></rect>
+                              </svg>
+
+                              <svg class="icon icon-checkmark"
+                                width="1.1rem"
+                                height="0.7rem"
+                                viewBox="0 0 11 7"
+                                fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+
+                                <path d="M1.5 3.5L2.83333 4.75L4.16667 6L9.5 1"
+                                  stroke="currentColor"
+                                  stroke-width="1.75"
+                                  stroke-linecap="round"
+                                  stroke-linejoin="round" />
+                              </svg>
+
+                              <span aria-hidden="true">Out of stock (0)</span>
+                              <span class="visually-hidden">Out of stock (0 products)</span>
+                            </label>
+                          </li></ul>
+                    </fieldset>
+                  </div>
+                </details>
+              
+
+                
+                <details id="Details-2-template--24382013374777__product-grid" class=" facets__disclosure-vertical js-filter" data-index="2"
+                 open  >
+                  <summary class="facets__summary caption-large focus-offset">
+                    <div>
+                      <span>Price</span>
+                      <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                    </div>
+                  </summary>
+                  <div id="Facet-2-template--24382013374777__product-grid" class="facets__display-vertical">
+                    <div class="hide facets__header-vertical "><span class="facets__selected">The highest price is $99.99</span></div>
+                    
+                    <price-range class="facets__price flex-column">
+                      
+                      <div class="slider-container mb-4 pl-3 pt-3">
+                        <div class="slider-range"></div>
+                      </div>
+                      <div class="price-wrap d-flex align-items-center">
+                        <span class="field-currency">$</span>
+                        <div class="field">
+                          <input class="field__input field__input_min"
+                            name="filter.v.price.gte"
+                            id="Filter-Price-GTE"type="text"
+                            placeholder="0"
+                            min="0"max="99.99"
+                          >
+                          <label class="field__label visually-hidden" for="Filter-Price-GTE">From</label>
+                        </div>
+                        
+                          <span class="field-currency">$</span>
+                       
+                        <div class="field">
+                          <input class="field__input field__input_max"
+                            name="filter.v.price.lte"
+                            id="Filter-Price-LTE"type="text"
+                            min="0"placeholder="99.99"
+                              max="99.99"
+                            
+                          >
+                          <label class="field__label visually-hidden" for="Filter-Price-LTE">To</label>
+                        </div>
+                    </div>
+                    </price-range>
+                  </div>
+                </details>
+              
+<noscript>
+              <button type="submit" class="facets__button-no-js button button--secondary">Filter</button>
+            </noscript>
+          </div>
+          
+
+
+        
+</form>
+    </facet-filters-form>
+    
+<facet-filters-form class="small-hide ">
+        <form class="no-js">
+          <div class="facet-filters sorting caption">
+            <div class="facet-filters__field">
+              <h2 class="facet-filters__label caption-large text-body">
+                <label for="SortBy">Sort by:</label>
+              </h2>
+              <div class="select"><select name="sort_by" class="facet-filters__sort select__select caption-large" id="SortBy" aria-describedby="a11y-refresh-page-message"><option value="manual">Featured</option><option value="best-selling">Best selling</option><option value="title-ascending">Alphabetically, A-Z</option><option value="title-descending">Alphabetically, Z-A</option><option value="price-ascending">Price, low to high</option><option value="price-descending">Price, high to low</option><option value="created-ascending" selected="selected">Date, old to new</option><option value="created-descending">Date, new to old</option></select>
+                <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+              </div>
+            </div>
+
+            <noscript>
+              <button type="submit" class="facets__button-no-js button button--secondary">Sort</button>
+            </noscript>
+          </div>
+
+          
+</form>
+      </facet-filters-form>
+  <div class="d-flex flex-grow-1 align-items-center">
+  <menu-drawer class="flex-grow-0 mobile-facets__wrapper medium-hide large-up-hide " data-breakpoint="mobile">
+    <details class="mobile-facets__disclosure disclosure-has-popup">
+      <summary class="mobile-facets__open-wrapper focus-offset">
+        <span class="mobile-facets__open">
+          <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-filter" fill="none" viewBox="0 11 20 20">
+  <line x1="16.5" y1="17.5" x2="3.5" y2="17.5" stroke="#3F7972" stroke-linecap="round"></line>
+  <line x1="16.5" y1="24.5" x2="3.5" y2="24.5" stroke="#3F7972" stroke-linecap="round"></line>
+  <circle class="circle-1" cx="13" cy="24.5" r="2" fill="white" stroke="#3F7972"></circle>
+  <circle class="circle-2" cx="7" cy="17.5" r="2" fill="white" stroke="#3F7972"></circle>
+</svg>
+          <span class="mobile-facets__open-label button-label medium-hide large-up-hide">Filter and sort
+</span>
+          <span class="mobile-facets__open-label button-label small-hide">Filter
+</span>
+          
+        </span>
+        <span tabindex="0" class="mobile-facets__close mobile-facets__close--no-js"><i class="icon-close"></i></span>
+      </summary>
+      <facet-filters-form>
+        <form id="FacetFiltersFormMobile" class="mobile-facets">
+          <div class="mobile-facets__inner gradient">
+            <div class="mobile-facets__header">
+              <div class="mobile-facets__header-inner">
+                <h2 class="mobile-facets__heading medium-hide large-up-hide h5">Filter and sort
+</h2>
+                <h2 class="mobile-facets__heading small-hide h5">Filter
+</h2>
+                <p class="mobile-facets__count">22 products
+</p>
+              </div>
+              <div class="modal-header">
+                <button type="button" class="close btn btn-facet-colose" ><i class="icon-close"></i></button>
+              </div>
+            </div>
+            <div class="mobile-facets__main has-submenu gradient">
+                    <details id="Details-Mobile-1-template--24382013374777__product-grid" class="mobile-facets__details js-filter" data-index="mobile-1">
+                      <summary class="mobile-facets__summary focus-inset">
+                        <div>
+                          <span>Availability</span>
+                          <span class="mobile-facets__arrow no-js-hidden"><svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+</span>
+                          <noscript><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</noscript>
+                        </div>
+                      </summary><div id="FacetMobile-1-template--24382013374777__product-grid" class="mobile-facets__submenu gradient 
+                      
+                    ">
+                        <button class="mobile-facets__close-button link--text focus-inset" aria-expanded="true" type="button">
+                          <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                          Availability
+                        </button>
+                        <ul class="mobile-facets__list list-unstyled" role="list"><li class="mobile-facets__item list-menu__item   ">
+                              <label for="Filter-filter.v.availability-mobile-1" class="facet-checkbox mobile-facets__label
+                               ">
+                                <input class="mobile-facets__checkbox" type="checkbox" name="filter.v.availability" value="1" id="Filter-filter.v.availability-mobile-1"
+                                  
+                                  
+                                >
+
+                                <span class="mobile-facets__highlight"></span>
+
+                                <svg class="svg-box" width="1.6rem" height="1.6rem" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                                  <rect width="16" height="16" stroke="currentColor" fill="none" stroke-width="1"></rect>
+                                </svg>
+
+                                <svg class="icon icon-checkmark" width="1.1rem" height="0.7rem" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M1.5 3.5L2.83333 4.75L4.16667 6L9.5 1" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg><span aria-hidden="true">In stock (22)</span>
+                                <span class="visually-hidden">In stock (22 products)</span>
+                              </label>
+                            </li><li class="mobile-facets__item list-menu__item   ">
+                              <label for="Filter-filter.v.availability-mobile-2" class="facet-checkbox mobile-facets__label mobile-facets__label--disabled facet-checkbox--disabled
+                               ">
+                                <input class="mobile-facets__checkbox" type="checkbox" name="filter.v.availability" value="0" id="Filter-filter.v.availability-mobile-2"
+                                  
+                                  disabled
+                                >
+
+                                <span class="mobile-facets__highlight"></span>
+
+                                <svg class="svg-box" width="1.6rem" height="1.6rem" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+                                  <rect width="16" height="16" stroke="currentColor" fill="none" stroke-width="1"></rect>
+                                </svg>
+
+                                <svg class="icon icon-checkmark" width="1.1rem" height="0.7rem" viewBox="0 0 11 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                  <path d="M1.5 3.5L2.83333 4.75L4.16667 6L9.5 1" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" />
+                                </svg><span aria-hidden="true">Out of stock (0)</span>
+                                <span class="visually-hidden">Out of stock (0 products)</span>
+                              </label>
+                            </li></ul>
+
+                        <div class="no-js-hidden mobile-facets__footer gradient">
+                          <facet-remove class="mobile-facets__clear-wrapper">
+                            <a href="all-products.html" class="mobile-facets__clear link">Clear</a>
+                          </facet-remove>
+                          <button type="button" class="no-js-hidden button button--primary btn btn-theme" onclick="this.closest('.mobile-facets__wrapper').querySelector('summary').click()">Apply</button>
+                          <noscript><button class="button button--primary">Apply</button></noscript>
+                        </div>
+                      </div>
+                    </details>
+                  
+
+                    <details id="Details-Mobile-2-template--24382013374777__product-grid" class="mobile-facets__details js-filter" data-index="mobile-2">
+                      <summary class="mobile-facets__summary focus-inset">
+                        <div>
+                          <span>Price</span>
+                          <span class="mobile-facets__arrow no-js-hidden"><svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+</span>
+                          <noscript><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</noscript>
+                        </div>
+                      </summary>
+                      <div id="FacetMobile-2-template--24382013374777__product-grid" class="mobile-facets__submenu gradient">
+                        <button class="mobile-facets__close-button link--text focus-inset" aria-expanded="true" type="button">
+                          <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false" role="presentation" class="icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z" fill="currentColor">
+</svg>
+
+                          Price
+                        </button><p class="mobile-facets__info">The highest price is $99.99</p>
+
+                        <price-range class="facets__price flex-column pt-0">
+                          
+                          <div class="slider-container mb-4 pl-3 pt-3">
+                            <div class="slider-range"></div>
+                          </div>
+                          <div class="price-wrap d-flex align-items-center">
+                          <span class="field-currency">$</span>
+                          <div class="field">
+                            <input class="field__input field__input_min"
+                              name="filter.v.price.gte"
+                              id="Mobile-Filter-Price-GTE"type="text"
+                              placeholder="0"
+                              min="0"
+                              inputmode="decimal"max="99.99"
+                            >
+                            <label class="field__label visually-hidden" for="Mobile-Filter-Price-GTE">From</label>
+                          </div>
+
+                          <span class="field-currency">$</span>
+                          <div class="field">
+                            <input class="field__input field__input_max"
+                              name="filter.v.price.lte"
+                              id="Mobile-Filter-Price-LTE"type="text"
+                              min="0"
+                              inputmode="decimal"placeholder="99.99"
+                                max="99.99"
+                              
+                            >
+                            <label class="field__label visually-hidden" for="Mobile-Filter-Price-LTE">To</label>
+                          </div>
+                          </div>
+                        </price-range>
+                        <div class="no-js-hidden mobile-facets__footer">
+                          <facet-remove class="mobile-facets__clear-wrapper">
+                            <a href="all-products.html" class="mobile-facets__clear link">Clear</a>
+                          </facet-remove>
+                          <button type="button" class="no-js-hidden button button--primary btn btn-theme" onclick="this.closest('.mobile-facets__wrapper').querySelector('summary').click()">Apply</button>
+                          <noscript><button class="button button--primary">Apply</button></noscript>
+                        </div>
+                      </div>
+                    </details>
+                  
+<div class="mobile-facets__details js-filter" data-index="mobile-">
+                  <div class="mobile-facets__summary">
+                    <div class="mobile-facets__sort">
+                      <label for="SortBy-mobile">Sort by:</label>
+                      <div class="select">
+                        <select name="sort_by" class="select__select" id="SortBy-mobile" aria-describedby="a11y-refresh-page-message"><option value="manual">Featured</option><option value="best-selling">Best selling</option><option value="title-ascending">Alphabetically, A-Z</option><option value="title-descending">Alphabetically, Z-A</option><option value="price-ascending">Price, low to high</option><option value="price-descending">Price, high to low</option><option value="created-ascending" selected="selected">Date, old to new</option><option value="created-descending">Date, new to old</option></select>
+                        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+
+                      </div>
+                    </div>
+                  </div>
+                </div><div class="mobile-facets__footer">
+                <facet-remove class="mobile-facets__clear-wrapper">
+                  <a href="all-products.html" class="mobile-facets__clear link">Clear all</a>
+                </facet-remove>
+                <button type="button" class="no-js-hidden button button--primary btn btn-theme" onclick="this.closest('.mobile-facets__wrapper').querySelector('summary').click()">Apply</button>
+                <noscript><button class="button button--primary">Apply</button></noscript>
+              </div>
+            </div>
+
+            
+</div>
+        </form>
+      </facet-filters-form>
+    </details>
+  </menu-drawer></div>
+  <div class="active-facets active-facets-mobile medium-hide large-up-hide"><facet-remove class="active-facets__button-wrapper">
+      <a href="all-products.html" class="active-facets__button-remove underlined-link">
+        <span>Clear all</span>
+      </a>
+    </facet-remove>
   </div>
   
-  </div><section id="shopify-section-template--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6" class="shopify-section section">
-<style data-shopify>.customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6{
-      background-color:#ffffff;
-      padding: 80px 0px 80px 0px;
-      margin: 0px 0px 0px 0px;
-      
-    }@media (max-width:750px){
-      .customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6{
-        padding: 40px 0px 40px 0px;
-        margin: 0px 0px 0px 0px
-      }
-    }</style><div class="customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6">
-  <div class="contact container"><!-- section-heading.liquid - Apply for all section title -->
-
-<h3 class="h2 text-center   mb-2 " data-aos="" data-aos-duration="500">
-    <span>Got Any Questions?</span>
-  </h3><div class="font-family-2 mb-5 txt-body-70 text-center" data-aos="" data-aos-duration="800">We’d love to hear from you! Whether you have a question about our products, need assistance, or want to share your La Flawless experience, our team is here to help.</div><div class="row justify-content-center">
-        <div class="col-lg-9 col-12"><form method="post" action="https://la-flawless.com/contact#ContactForm" id="ContactForm" accept-charset="UTF-8" class="isolate"><input type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8" value="✓" /><div class="contact__fields">
-                <div class="row">
-                    <div class="col-lg-6 col-12">
-                        <div class="field form-group">
-                            <input class="field__input form-control" autocomplete="name" type="text" id="ContactForm-name" name="contact[Name]" value="" placeholder="Name">
-                            <label class="field__label" for="ContactForm-name">Name</label>
-                          </div>
-                    </div>
-                    <div class="col-lg-6 col-12">
-                        <div class="field field--with-error form-group">
-                            <input
-                              autocomplete="email"
-                              type="email"
-                              id="ContactForm-email"
-                              class="field__input form-control"
-                              name="contact[email]"
-                              spellcheck="false"
-                              autocapitalize="off"
-                              value=""
-                              aria-required="true"
-                              
-                              placeholder="Email"
-                            >
-                            <label class="field__label" for="ContactForm-email">Email <span aria-hidden="true">*</span></label></div>
-                    </div>
-                </div>
-            </div>
-            <div class="field form-group">
-              <input type="tel" id="ContactForm-phone" class="field__input form-control" autocomplete="tel" name="contact[Phone Number]" pattern="[0-9\-]*" value="" placeholder="Phone Number">
-              <label class="field__label" for="ContactForm-phone">Phone Number</label>
-            </div>
-            <div class="field form-group">
-              <textarea
-                rows="10"
-                id="ContactForm-body"
-                class="text-area field__input form-control form-control-area"
-                name="contact[Message]"
-                placeholder="Message"
-              ></textarea>
-              <label class="form__label field__label" for="ContactForm-body">Message</label>
-            </div>
-            <div class="contact__button text-center">
-              <button type="submit" class="button btn btn-theme">
-                  Send Question  <i class="ml-1 small icon-arrow-right"></i>
-              </button>
-            </div></form></div>
+<div class="product-count light medium-hide large-up-hide" role="status">
+    <h2 class="product-count__text text-body font-family-2">
+      <span id="ProductCount">22 products
+</span>
+    </h2>
+    <div class="loading-overlay__spinner">
+      <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+        <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+      </svg>
     </div>
+  </div></div>
+
+      </aside><div id="ProductGridContainer"     class="col-md-9 pl-lg-5"  ><div class="collection  pt-4 ">
+          <div class="loading-overlay gradient"></div>
+  
+          <ul id="product-grid" data-id="template--24382013374777__product-grid" class="
+            grid grid--2-col product-grid row AjaxinateLoop
+            
+               grid--3-col-tablet grid--one-third-max grid--4-col-desktop grid--quarter-max
+            "><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="2499" id="product-item-9748400767289">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/niacinamide-papaya-brightening-serum.html" style="padding-top:100.0%;" data-image-id="42133677244729">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133&width=165 165w,//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133&width=360 360w,//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133&width=533 533w,//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133&width=720 720w,//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133&width=940 940w,//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133&width=1066 1066w,//la-flawless.com/cdn/shop/files/Niacinamide_PapayaBrighteningSerum.jpg?v=1737386133 1200w
+                "
+                src="../cdn/shop/files/Niacinamide_PapayaBrighteningSerum2b3b.jpg?v=1737386133&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Niacinamide &amp; Papaya Brightening Serum"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_8596-Edit.jpg?v=1738366362 5979w
+     "
+     src="../cdn/shop/files/IMG_8596-Edit1b52.jpg?v=1738366362&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Niacinamide &amp; Papaya Brightening Serum"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="1.4694028016711722"
+     loading="lazy"
+     width="5979"
+     height="4069"
+   >
+  </a>
+<div class="product-label rectangular_label ">
     
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="niacinamide-papaya-brightening-serum" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748400767289'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Dual Barrier Skin Brightening SerumNiacinamide Serum with Papaya Extract, Lactic Acid, Hyaluronic...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450965954873">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/niacinamide-papaya-brightening-serum.html" title="Niacinamide & Papaya Brightening Serum" class=" d-block product-card__name ">Niacinamide & Papaya Brightening Serum</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748400767289' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $24.99
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="3499" id="product-item-9748980793657">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/korean-glass-skin-renewing-serum.html" style="padding-top:100.0%;" data-image-id="42133648048441">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771&width=165 165w,//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771&width=360 360w,//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771&width=533 533w,//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771&width=720 720w,//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771&width=940 940w,//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771&width=1066 1066w,//la-flawless.com/cdn/shop/files/KoreanGlassSkinRenewingSerum.jpg?v=1737385771 1200w
+                "
+                src="../cdn/shop/files/KoreanGlassSkinRenewingSerum5eb3.jpg?v=1737385771&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Korean Glass Skin Renewing Serum"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_8306.jpg?v=1738364540 4160w
+     "
+     src="../cdn/shop/files/IMG_8306942f.jpg?v=1738364540&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Korean Glass Skin Renewing Serum"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="0.6666666666666666"
+     loading="lazy"
+     width="4160"
+     height="6240"
+   >
+  </a>
+<div class="product-label rectangular_label ">
     
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="korean-glass-skin-renewing-serum" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748980793657'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Korean Glass Skin Renewing Serum is a potent formula made with glutathione,...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450955108665">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendorsd43f.html?filter.p.vendor=My%20Store&amp;q=My%20Store">My Store</a>
+        <a href="all-products/products/korean-glass-skin-renewing-serum.html" title="Korean Glass Skin Renewing Serum" class=" d-block product-card__name ">Korean Glass Skin Renewing Serum</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748980793657' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $34.99
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="9999" id="product-item-9748984103225">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/skin-boosting-supreme-mask.html" style="padding-top:100.0%;" data-image-id="42133697397049">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326&width=165 165w,//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326&width=360 360w,//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326&width=533 533w,//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326&width=720 720w,//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326&width=940 940w,//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326&width=1066 1066w,//la-flawless.com/cdn/shop/files/SkinBoostingSupremeMask.jpg?v=1737386326 1200w
+                "
+                src="../cdn/shop/files/SkinBoostingSupremeMask285e.jpg?v=1737386326&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Skin Boosting Supreme Mask"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_6907.jpg?v=1738365404 3825w
+     "
+     src="../cdn/shop/files/IMG_6907f1e8.jpg?v=1738365404&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Skin Boosting Supreme Mask"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="0.7613455414012739"
+     loading="lazy"
+     width="3825"
+     height="5024"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="skin-boosting-supreme-mask" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748984103225'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Experience the transformative power of radiance boosting anti gravity face masks, meticulously...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450950783289">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/skin-boosting-supreme-mask.html" title="Skin Boosting Supreme Mask" class=" d-block product-card__name ">Skin Boosting Supreme Mask</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748984103225' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $99.99
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="2799" id="product-item-9748984529209">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/niacinamide-caviar-firming-serum.html" style="padding-top:100.0%;" data-image-id="42133676523833">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119&width=165 165w,//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119&width=360 360w,//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119&width=533 533w,//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119&width=720 720w,//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119&width=940 940w,//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119&width=1066 1066w,//la-flawless.com/cdn/shop/files/Niacinamide_CaviarFirmingSerum.jpg?v=1737386119 1200w
+                "
+                src="../cdn/shop/files/Niacinamide_CaviarFirmingSerum23ee.jpg?v=1737386119&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Niacinamide &amp; Caviar Firming Serum"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_8908-Edit.jpg?v=1738366404 4047w
+     "
+     src="../cdn/shop/files/IMG_8908-Editd58d.jpg?v=1738366404&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Niacinamide &amp; Caviar Firming Serum"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="1.2746456692913386"
+     loading="lazy"
+     width="4047"
+     height="3175"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="niacinamide-caviar-firming-serum" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748984529209'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Niacinamide with Caviar Extract &amp; Panthenol Serum is a powerhouse formula designed...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450960711993">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/niacinamide-caviar-firming-serum.html" title="Niacinamide & Caviar Firming Serum" class=" d-block product-card__name ">Niacinamide & Caviar Firming Serum</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748984529209' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $27.99
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="2499" id="product-item-9748985479481">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/vitamin-c-serum.html" style="padding-top:100.0%;" data-image-id="42133700837689">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348&width=165 165w,//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348&width=360 360w,//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348&width=533 533w,//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348&width=720 720w,//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348&width=940 940w,//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348&width=1066 1066w,//la-flawless.com/cdn/shop/files/VitaminCSerum.jpg?v=1737386348 1200w
+                "
+                src="../cdn/shop/files/VitaminCSerumf932.jpg?v=1737386348&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Vitamin C Serum"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_180702.jpg?v=1738365165&width=165 165w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_180702.jpg?v=1738365165&width=360 360w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_180702.jpg?v=1738365165&width=533 533w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_180702.jpg?v=1738365165&width=720 720w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_180702.jpg?v=1738365165&width=940 940w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_180702.jpg?v=1738365165 976w
+     "
+     src="../cdn/shop/files/Screenshot_2025-01-31_180702748f.jpg?v=1738365165&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Vitamin C Serum"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="1.492354740061162"
+     loading="lazy"
+     width="976"
+     height="654"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="vitamin-c-serum" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748985479481'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                La Flawless Vitamin C Serum is a brightening and anti-aging skincare essential....
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450958680377">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/vitamin-c-serum.html" title="Vitamin C Serum" class=" d-block product-card__name ">Vitamin C Serum</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748985479481' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $24.99
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="3000" id="product-item-9748985839929">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/platinum-intensive-brightening-serum.html" style="padding-top:100.0%;" data-image-id="42133678293305">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146&width=165 165w,//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146&width=360 360w,//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146&width=533 533w,//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146&width=720 720w,//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146&width=940 940w,//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146&width=1066 1066w,//la-flawless.com/cdn/shop/files/PlatinumIntensiveBrighteningSerum.jpg?v=1737386146 1200w
+                "
+                src="../cdn/shop/files/PlatinumIntensiveBrighteningSerumfd7a.jpg?v=1737386146&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Platinum Intensive Brightening Serum"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_182931.jpg?v=1741296748&width=165 165w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_182931.jpg?v=1741296748&width=360 360w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_182931.jpg?v=1741296748&width=533 533w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_182931.jpg?v=1741296748&width=720 720w,//la-flawless.com/cdn/shop/files/Screenshot_2025-01-31_182931.jpg?v=1741296748 744w
+     "
+     src="../cdn/shop/files/Screenshot_2025-01-31_1829315809.jpg?v=1741296748&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Platinum Intensive Brightening Serum"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="1.1735015772870663"
+     loading="lazy"
+     width="744"
+     height="634"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="platinum-intensive-brightening-serum" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748985839929'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Platinum Intensive Brightening Serum brightens dark spots and hyperpigmentation, evens skin tone,...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450952454457">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/platinum-intensive-brightening-serum.html" title="Platinum Intensive Brightening Serum" class=" d-block product-card__name ">Platinum Intensive Brightening Serum</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748985839929' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $30.00
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="2500" id="product-item-9748986593593">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/green-tea-oil-free-hydrating-moisturizer.html" style="padding-top:100.0%;" data-image-id="42133646180665">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745&width=165 165w,//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745&width=360 360w,//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745&width=533 533w,//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745&width=720 720w,//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745&width=940 940w,//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745&width=1066 1066w,//la-flawless.com/cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer.jpg?v=1737385745 1200w
+                "
+                src="../cdn/shop/files/GreenTeaOil-freeHydratingMoisturizer76ec.jpg?v=1737385745&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Green Tea Oil-free Hydrating Moisturizer"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_6912.jpg?v=1741316444 3871w
+     "
+     src="../cdn/shop/files/IMG_6912713d.jpg?v=1741316444&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Green Tea Oil-free Hydrating Moisturizer"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="0.6967242620590353"
+     loading="lazy"
+     width="3871"
+     height="5556"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="green-tea-oil-free-hydrating-moisturizer" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748986593593'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Green Tea Moisturizer is a refreshing blend that hydrates and soothes the...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450939838777">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/green-tea-oil-free-hydrating-moisturizer.html" title="Green Tea Oil-free Hydrating Moisturizer" class=" d-block product-card__name ">Green Tea Oil-free Hydrating Moisturizer</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748986593593' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $25.00
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="2500" id="product-item-9748987347257">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/lactic-acid-activating-moisturizer.html" style="padding-top:100.0%;" data-image-id="42133673443641">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077&width=165 165w,//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077&width=360 360w,//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077&width=533 533w,//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077&width=720 720w,//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077&width=940 940w,//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077&width=1066 1066w,//la-flawless.com/cdn/shop/files/LacticAcidActivatingMoisturizer.jpg?v=1737386077 1200w
+                "
+                src="../cdn/shop/files/LacticAcidActivatingMoisturizer96a1.jpg?v=1737386077&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Lactic Acid Activating Moisturizer"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_6918.jpg?v=1738364671 5899w
+     "
+     src="../cdn/shop/files/IMG_69188086.jpg?v=1738364671&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Lactic Acid Activating Moisturizer"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="1.4468972283541819"
+     loading="lazy"
+     width="5899"
+     height="4077"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="lactic-acid-activating-moisturizer" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748987347257'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Lactic Acid Skin Reverse Activating Moisturizer gently exfoliates and hydrates, revealing a...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450938593593">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/lactic-acid-activating-moisturizer.html" title="Lactic Acid Activating Moisturizer" class=" d-block product-card__name ">Lactic Acid Activating Moisturizer</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748987347257' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $25.00
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="3000" id="product-item-9748988461369">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/lactic-acid-balancing-toner.html" style="padding-top:100.0%;" data-image-id="42133674131769">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087&width=165 165w,//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087&width=360 360w,//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087&width=533 533w,//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087&width=720 720w,//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087&width=940 940w,//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087&width=1066 1066w,//la-flawless.com/cdn/shop/files/LacticAcidBalancingToner.jpg?v=1737386087 1200w
+                "
+                src="../cdn/shop/files/LacticAcidBalancingToner8ae4.jpg?v=1737386087&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Lactic Acid Balancing Toner"
+                class="lazyload scale-in first-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+            
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="lactic-acid-balancing-toner" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748988461369'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Lactic Acid Balancing Toner helps to balance the skin's pH level, promoting...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450947309881">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/lactic-acid-balancing-toner.html" title="Lactic Acid Balancing Toner" class=" d-block product-card__name ">Lactic Acid Balancing Toner</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748988461369' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $30.00
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="3000" id="product-item-9748988952889">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/tranxemic-acid-brightening-toner.html" style="padding-top:100.0%;" data-image-id="42133699821881">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337&width=165 165w,//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337&width=360 360w,//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337&width=533 533w,//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337&width=720 720w,//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337&width=940 940w,//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337&width=1066 1066w,//la-flawless.com/cdn/shop/files/TranxemicAcidBrighteningToner.jpg?v=1737386337 1200w
+                "
+                src="../cdn/shop/files/TranxemicAcidBrighteningToner8da1.jpg?v=1737386337&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Tranxemic Acid Brightening Toner"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_8320.jpg?v=1738365244 5617w
+     "
+     src="../cdn/shop/files/IMG_83202a81.jpg?v=1738365244&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Tranxemic Acid Brightening Toner"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="1.4014471057884232"
+     loading="lazy"
+     width="5617"
+     height="4008"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="tranxemic-acid-brightening-toner" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748988952889'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Experience brighter, more even skin with our Tranxemic Acid Brightening Toner. This...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450948096313">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/tranxemic-acid-brightening-toner.html" title="Tranxemic Acid Brightening Toner" class=" d-block product-card__name ">Tranxemic Acid Brightening Toner</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748988952889' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $30.00
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="3000" id="product-item-9748989411641">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/green-tea-soothing-toner.html" style="padding-top:100.0%;" data-image-id="42133670166841">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029&width=165 165w,//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029&width=360 360w,//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029&width=533 533w,//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029&width=720 720w,//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029&width=940 940w,//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029&width=1066 1066w,//la-flawless.com/cdn/shop/files/GreenTeaSoothingToner.jpg?v=1737386029 1200w
+                "
+                src="../cdn/shop/files/GreenTeaSoothingToner70a6.jpg?v=1737386029&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Green Tea Soothing Toner"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_7580.jpg?v=1738364402 4160w
+     "
+     src="../cdn/shop/files/IMG_7580c7c8.jpg?v=1738364402&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Green Tea Soothing Toner"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="0.6666666666666666"
+     loading="lazy"
+     width="4160"
+     height="6240"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="green-tea-soothing-toner" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748989411641'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Green Tea Soothing Toner is formulated with green tea extract to calm...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450946523449">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/green-tea-soothing-toner.html" title="Green Tea Soothing Toner" class=" d-block product-card__name ">Green Tea Soothing Toner</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748989411641' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $30.00
+</div>
+
+        
+      </div>
+    </div></li><li class="grid__item js-col col-sm-6 col-6 col-lg-4">
+
+
+<div class="product-card js-product-card product-card--style1 product-card--style9 info-false" data-price="3000" id="product-item-9748989608249">
+      <div class="product-card__image-wr">
+        <a class="product-card__image js image-content__image-wrapper auto" href="all-products/products/rose-elixir-hydrating-toner.html" style="padding-top:100.0%;" data-image-id="42133695037753">
+        <img
+                srcset="//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303&width=165 165w,//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303&width=360 360w,//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303&width=533 533w,//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303&width=720 720w,//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303&width=940 940w,//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303&width=1066 1066w,//la-flawless.com/cdn/shop/files/RoseElixirHydratingToner.jpg?v=1737386303 1200w
+                "
+                src="../cdn/shop/files/RoseElixirHydratingToner7d7c.jpg?v=1737386303&amp;width=720"
+                sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+                alt="Rose Elixir Hydrating Toner"
+                class="lazyload scale-in first-image  hover__hide-image "
+                data-sizes="auto"
+                data-aspectratio="1.0"
+                loading="lazy"
+                width="1200"
+                height="1200"
+              >
+             
+     <img
+     srcset="//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560&width=165 165w,//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560&width=360 360w,//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560&width=533 533w,//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560&width=720 720w,//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560&width=940 940w,//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560&width=1066 1066w,//la-flawless.com/cdn/shop/files/IMG_7589.jpg?v=1738365560 3953w
+     "
+     src="../cdn/shop/files/IMG_75893959.jpg?v=1738365560&amp;width=720"
+     sizes="(min-width: 1400px) 317px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+     alt="Rose Elixir Hydrating Toner"
+     class="lazyload transition second-image"
+     data-sizes="auto"
+     data-aspectratio="0.9186613990239368"
+     loading="lazy"
+     width="3953"
+     height="4303"
+   >
+  </a>
+<div class="product-label rectangular_label ">
+    
+<div class=" hide product-tag product-tag-sale-item product-tag--absolute  txtandnumber mb-1" aria-hidden="true" style="background-color: #d73f0f;color:#ffffff">Sale <span class="product-tag-sale-number-item"> -% </span></div>
+    </div><div class="product-card__overlay d-flex justify-content-center flex-column"><span data-tooltip="true" data-placement="left" class="btn btn-theme gradient-theme-vertical product-card__overlay-btn js-btn-quickview" title="Quickshop" 
+          data-toggle="modal" 
+          data-target="#jsQuickview" 
+          data-handle="rose-elixir-hydrating-toner" 
+          data-pavailable="true"
+           data-viewjdmg="<span class='jdgm-preview-badge' data-id='9748989608249'></span>"  >
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.9844 5.57178C8.50513 5.57178 4.93608 7.58553 2.12638 11.613C2.04618 11.7293 2.00223 11.8666 2.00008 12.0078C1.99794 12.149 2.03769 12.2877 2.11432 12.4063C4.27316 15.7856 7.79444 18.4284 11.9844 18.4284C16.1289 18.4284 19.7225 15.7776 21.8854 12.3907C21.9602 12.2744 22 12.139 22 12.0007C22 11.8624 21.9602 11.7271 21.8854 11.6108C19.7176 8.26273 16.0977 5.57178 11.9844 5.57178Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12.0029 15.5713C13.9753 15.5713 15.5742 13.9723 15.5742 12C15.5742 10.0276 13.9753 8.42871 12.0029 8.42871C10.0306 8.42871 8.43164 10.0276 8.43164 12C8.43164 13.9723 10.0306 15.5713 12.0029 15.5713Z" stroke="currentColor" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
+<span>Quickshop</span><span class=" txt-short hide" >
+                Experience ultimate hydration with our Rose Elixir Hydrating Toner. Our expertly crafted...
+              </span></span></div>
+        <div class="product-card-cart">
+          <span  class="btn btn-theme js-grid-cart w-100 " 
+            
+              title="Add to Cart" 
+             
+            data-id="50450942886201">
+              <div class="product-card__loading spinner-border" role="status"></div>
+              <span>
+                
+                  Add to Cart
+                 
+              </span>
+          </span>
+        </div></div>
+      <div class="product-card__info text-left">
+        
+<a class="mb-1 product-card__type d-inline-block" href="vendors6949.html?filter.p.vendor=La%20Flawless&amp;q=La%20Flawless">La Flawless</a>
+        <a href="all-products/products/rose-elixir-hydrating-toner.html" title="Rose Elixir Hydrating Toner" class=" d-block product-card__name ">Rose Elixir Hydrating Toner</a>
+        
+        
+<div style='' class='jdgm-widget jdgm-preview-badge  py-1 small'  data-id='9748989608249' data-auto-install="false" >
+      
+    </div>
+        
+  <div class="product-card__price "><span class="visually-hidden">Regular price</span>
+  $30.00
+</div>
+
+        
+      </div>
+    </div></li></ul>
+          
+
+
+<link rel="stylesheet" href="../cdn/shop/t/13/assets/component-pagination2fd3.css?v=7926116068238542661743108420" media="print" onload="this.media='all'">
+<noscript><link href="../cdn/shop/t/13/assets/component-pagination2fd3.css?v=7926116068238542661743108420" rel="stylesheet" type="text/css" media="all" /></noscript><div class="pagination-wrapper ">
+    <nav class="pagination" role="navigation" aria-label="Pagination">
+      <ul class="pagination__list list-unstyled" role="list"><li><span class="pagination__item pagination__item--current" aria-current="page" aria-label="Page 1">1</span></li><li><a href="all-products4658.html?page=2" class="pagination__item link" aria-label="Page 2">2</a></li><li>
+          <a href="all-products4658.html?page=2" class="pagination__item pagination__item--prev pagination__item-arrow link motion-reduce" aria-label="Next page" ><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor">
+</svg>
+</a>
+        </li></ul>
+    </nav>
+  </div>
+
+         
+        </div></div>
   </div>
 </div>
 
 
-</section>
+
+</div>
 
       </main><!-- BEGIN sections: footer-group -->
 <div id="shopify-section-sections--24382004199737__newsletter-footer" class="shopify-section shopify-section-group-footer-group index-section"><!-- newsletter.liquid -->
@@ -3025,7 +4510,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
                 </a>
               </div><div class="rte-setting">Welcome to La Flawless Skin Care, where the pursuit of beauty meets the embrace of nature. Founded on the principles of harnessing the innate power of natural ingredients, our brand is a testament to the fusion of science and purity in skincare.</div>
           </div>
-        </div></div><div class="col-1-5 col-md-6 col-12 " ><div class="site-footer__section text-lg-left"><h4 class="h5 site-footer__section-title">Useful Links</h4><ul class="site-footer__list site-footer-block"><li class="site-footer__list-item"><a href="faqs.html">FAQ</a></li><li class="site-footer__list-item"><a href="terms-of-service.html">Terms Of Service</a></li><li class="site-footer__list-item"><a href="return-policy.html">Return Policy</a></li></ul>
+        </div></div><div class="col-1-5 col-md-6 col-12 " ><div class="site-footer__section text-lg-left"><h4 class="h5 site-footer__section-title">Useful Links</h4><ul class="site-footer__list site-footer-block"><li class="site-footer__list-item"><a href="../pages/faqs.html">FAQ</a></li><li class="site-footer__list-item"><a href="../pages/terms-of-service.html">Terms Of Service</a></li><li class="site-footer__list-item"><a href="../pages/return-policy.html">Return Policy</a></li></ul>
         </div></div><div class="col-lg-3 col-md-6 " ><div class="site-footer__section text-lg-left "><h4 class="h5 site-footer__section-title">Contact Us</h4><div class="site-footer-block  footer-left"><div class="rte-setting"><div class=" rte">
 <p class="mt-3">Email: support@la-flawless.com
 
@@ -3356,7 +4841,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
           <div class="col-12   mb-4">
             <div class="subtop mb-3"> Cookie Policy </div>
 This website uses cookies to ensure you get the best experience on our website.
-<a class="link" title="Read Privacy"  href="privacy-policy.html" target="_blank">Read Privacy</a></div>
+<a class="link" title="Read Privacy"  href="../pages/privacy-policy.html" target="_blank">Read Privacy</a></div>
           <div class="col"><button class="btn js-btn-ok btn-theme btn-white mr-3">accept all</button><button class="btn js-btn-decline btn-outline btn-outline-white">Decline</button></div>
         </div>
       </div>
@@ -3488,13 +4973,13 @@ This website uses cookies to ensure you get the best experience on our website.
           </li><li class="drawer__nav-item">
             <a href="../collections.html" class="drawer__nav-link drawer__nav-link--top-level" >Collection</a>
           </li><li class="drawer__nav-item">
-            <a href="../collections/all-products.html" class="drawer__nav-link drawer__nav-link--top-level" >Shop</a>
+            <a href="all-products.html" class="drawer__nav-link drawer__nav-link--top-level"  aria-current="page">Shop</a>
           </li><li class="drawer__nav-item">
-            <a href="about-us.html" class="drawer__nav-link drawer__nav-link--top-level" >About Us</a>
+            <a href="../pages/about-us.html" class="drawer__nav-link drawer__nav-link--top-level" >About Us</a>
           </li><li class="drawer__nav-item">
-            <a href="faqs.html" class="drawer__nav-link drawer__nav-link--top-level" >FAQs</a>
+            <a href="../pages/faqs.html" class="drawer__nav-link drawer__nav-link--top-level" >FAQs</a>
           </li><li class="drawer__nav-item">
-            <a href="contact.html" class="drawer__nav-link drawer__nav-link--top-level"  aria-current="page">Contact</a>
+            <a href="../pages/contact.html" class="drawer__nav-link drawer__nav-link--top-level" >Contact</a>
           </li></ul>
     <ul class="menu-mobile-footer drawer__nav">
       
@@ -3819,8 +5304,9 @@ This website uses cookies to ensure you get the best experience on our website.
 
 <script src="../cdn/shopifycloud/storefront/assets/themes_support/api.jquery-7ab1a3a4.js" defer="defer"></script>
 <script src="../cdn/shop/t/13/assets/swiper-bundle.min6947.js?v=82690176662100911181743108420" defer="defer"></script>
-<script src="../cdn/shop/t/13/assets/themee846.js?v=131436351804994872041743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/predictive-search0c01.js?v=134817452430011541641743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/optimize17ed.js?v=178288286106074372131743108420" defer="defer"></script><style> .image-content-6-2 {display: none;} </style>
+<script src="../cdn/shop/t/13/assets/themee846.js?v=131436351804994872041743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/predictive-search0c01.js?v=134817452430011541641743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/nouislider.mina133.js?v=52247572922176386261743108420" defer="defer"></script>
+<script src="../cdn/shop/t/13/assets/facets4562.js?v=24929366230174044391743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/optimize17ed.js?v=178288286106074372131743108420" defer="defer"></script><style> .image-content-6-2 {display: none;} </style>
 </body>
 
-<!-- Mirrored from la-flawless.com/pages/contact by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:37 GMT -->
+<!-- Mirrored from la-flawless.com/collections/all-products by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:15 GMT -->
 </html>

@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js " lang="en">
   
-<!-- Mirrored from la-flawless.com/pages/contact by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:34 GMT -->
+<!-- Mirrored from la-flawless.com/collections by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:02:24 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -9,16 +9,16 @@
     <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#282828">
     <meta name="format-detection" content="telephone=no">
-    <link rel="canonical" href="contact.html">
-    <link rel="dns-prefetch" href="../index.html" crossorigin>
+    <link rel="canonical" href="collections.html">
+    <link rel="dns-prefetch" href="index.html" crossorigin>
     <link rel="dns-prefetch" href="https://c1dy1b-7z.myshopify.com/" crossorigin>
     <link rel="dns-prefetch" href="https://cdn.shopify.com/" crossorigin>
     <link rel="dns-prefetch" href="https://fonts.shopifycdn.com/" crossorigin>
   	<link rel="preconnect" href="https/fonts.shopifycdn.com/index.html" crossorigin>
-    <link rel="preconnect" href="https/cdn.shopify.com" crossorigin>
+    <link rel="preconnect" href="https/cdn.shopify.html" crossorigin>
     
-    <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin><link rel="shortcut icon" href="../cdn/shop/files/FAVICONeff4.jpg?crop=center&amp;height=32&amp;v=1743622617&amp;width=32" type="image/png"><title>
-      Contact
+    <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin><link rel="shortcut icon" href="cdn/shop/files/FAVICONeff4.jpg?crop=center&amp;height=32&amp;v=1743622617&amp;width=32" type="image/png"><title>
+      Collections
       
       
       
@@ -27,13 +27,13 @@
       
     </title>
       <meta name="description" content=""><!-- /snippets/social-meta-tags.liquid --><meta property="og:site_name" content="La Flawless">
-<meta property="og:url" content="contact.html">
-<meta property="og:title" content="Contact">
+<meta property="og:url" content="collections.html">
+<meta property="og:title" content="Collections">
 <meta property="og:type" content="website">
 <meta property="og:description" content="La Flawless">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Contact">
+<meta name="twitter:title" content="Collections">
 <meta name="twitter:description" content="La Flawless">
 <script>
   document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
@@ -76,7 +76,7 @@ article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:bl
  } */
 
 </style><style>
-  @font-face {font-family: 'icomoon';src:  url('../cdn/shop/t/13/assets/icomoond39b.eot?v=40073263178600934091743108420');src:  url('../cdn/shop/t/13/assets/icomoond39b.eot?v=40073263178600934091743108420') format('embedded-opentype'),url('../cdn/shop/t/13/assets/icomoon999e.ttf?v=3073305035700732751743108420') format('truetype'),url('../cdn/shop/t/13/assets/icomoon2bf0.woff?v=164432553405425012441743108420') format('woff'),url('../cdn/shop/t/13/assets/icomoon4d9b.svg?v=20337712751715580881743108420') format('svg');font-weight: normal;font-style: normal;font-display: block;}
+  @font-face {font-family: 'icomoon';src:  url('cdn/shop/t/13/assets/icomoond39b.eot?v=40073263178600934091743108420');src:  url('cdn/shop/t/13/assets/icomoond39b.eot?v=40073263178600934091743108420') format('embedded-opentype'),url('cdn/shop/t/13/assets/icomoon999e.ttf?v=3073305035700732751743108420') format('truetype'),url('cdn/shop/t/13/assets/icomoon2bf0.woff?v=164432553405425012441743108420') format('woff'),url('cdn/shop/t/13/assets/icomoon4d9b.svg?v=20337712751715580881743108420') format('svg');font-weight: normal;font-style: normal;font-display: block;}
   [class*=" icon-"],[class^=icon-]{font-family:icomoon!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-facebook:before{content:"\e91f"}.icon-gear:before{content:"\e920"}.icon-gear-alt:before{content:"\e921"}.icon-globe-europe:before{content:"\e922"}.icon-hamburger:before{content:"\e923"}.icon-heart:before{content:"\e924"}.icon-heart-solid:before{content:"\e925"}.icon-home:before{content:"\e926"}.icon-idea:before{content:"\e927"}.icon-idea-2:before{content:"\e928"}.icon-instagram:before{content:"\e929"}.icon-linkedin-in:before{content:"\e92a"}.icon-lock:before{content:"\e92b"}.icon-mail:before{content:"\e92c"}.icon-minus:before{content:"\e92d"}.icon-mobile-phone:before{content:"\e92e"}.icon-more-alt:before{content:"\e92f"}.icon-notebook:before{content:"\e930"}.icon-package:before{content:"\e931"}.icon-pause:before{content:"\e932";color:#424a60}.icon-pencil-ruler:before{content:"\e933"}.icon-phone:before{content:"\e934"}.icon-phone-alt:before{content:"\e935"}.icon-pictue:before{content:"\e936"}.icon-picture-alt:before{content:"\e937"}.icon-pin:before{content:"\e938"}.icon-pin-2:before{content:"\e939"}.icon-pinterest:before{content:"\e93a"}.icon-placeholder:before{content:"\e93b"}.icon-play:before{content:"\e93c"}.icon-plus:before{content:"\e93d"}.icon-quickview:before{content:"\e93e"}.icon-quote:before{content:"\e93f"}.icon-remove:before{content:"\e940"}.icon-route:before{content:"\e941"}.icon-search:before{content:"\e942"}.icon-send:before{content:"\e943"}.icon-sign-out:before{content:"\e944"}.icon-sliders:before{content:"\e945"}.icon-snapchat:before{content:"\e946"}.icon-speaker:before{content:"\e947"}.icon-star:before{content:"\e948"}.icon-star-alt:before{content:"\e949"}.icon-trophy:before{content:"\e94a"}.icon-trophy-2:before{content:"\e94b"}.icon-tumblr:before{content:"\e94c"}.icon-twitter:before{content:"\e94d"}.icon-typography:before{content:"\e94e"}.icon-user:before{content:"\e94f"}.icon-view:before{content:"\e950"}.icon-vimeo:before{content:"\e951"}.icon-youtube:before{content:"\e952"}.icon-truck:before{content:"\e91e"}.icon-app:before{content:"\e900"}.icon-app-alt:before{content:"\e901"}.icon-arrow-down:before{content:"\e902"}.icon-arrow-left:before{content:"\e903"}.icon-arrow-right:before{content:"\e904"}.icon-arrow-thin-down:before{content:"\e905"}.icon-arrow-thin-left:before{content:"\e906"}.icon-arrow-thin-right:before{content:"\e907"}.icon-arrow-thin-up:before{content:"\e908"}.icon-arrow-up:before{content:"\e909"}.icon-bag:before{content:"\e90a"}.icon-cart:before{content:"\e90b"}.icon-check-circle:before{content:"\e90c"}.icon-checkout:before{content:"\e90d"}.icon-check-square:before{content:"\e90e"}.icon-chevron-down:before{content:"\e90f"}.icon-chevron-left:before{content:"\e910"}.icon-chevron-right:before{content:"\e911"}.icon-chevron-up:before{content:"\e912"}.icon-circle:before{content:"\e913"}.icon-close:before{content:"\e914"}.icon-coffee:before{content:"\e915"}.icon-compare:before{content:"\e916"}.icon-contract:before{content:"\e917"}.icon-copy:before{content:"\e918"}.icon-divide:before{content:"\e919"}.icon-dot-circle:before{content:"\e91a"}.icon-download:before{content:"\e91b"}.icon-envelope:before{content:"\e91c"}.icon-square:before{content:"\e91d"}
 </style><style>@font-face {
         font-family: 'Cadiant';
@@ -275,7 +275,7 @@ article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:bl
         }  
       
       }
-</style><link rel="stylesheet" href="../cdn/shop/t/13/assets/component-predictive-searchafc2.css?v=169479605293561341341743108420" media="print" onload="this.media='all'"><link href="../cdn/shop/t/13/assets/themed334.css?v=149111212386735400261743109272" rel="stylesheet" type="text/css" media="all" />
+</style><link rel="stylesheet" href="cdn/shop/t/13/assets/component-predictive-searchafc2.css?v=169479605293561341341743108420" media="print" onload="this.media='all'"><link href="cdn/shop/t/13/assets/themed334.css?v=149111212386735400261743109272" rel="stylesheet" type="text/css" media="all" />
 <style>.spinner-grow, .spinner-border{
       color:var(--g-color-heading);
     }
@@ -358,18 +358,18 @@ article,aside,figcaption,figure,footer,header,hgroup,main,nav,section{display:bl
     
 
 </style>
-<link rel="preload" href="../cdn/shop/t/13/assets/lazysizes.minbf2e.js?v=94224023136283657951743108420" as="script">
-      <link rel="preload" href="../cdn/shop/t/13/assets/vendor6ef7.js?v=137390005798566870981743108420" as="script">
-      <link rel="preload" href="../cdn/shop/t/13/assets/swiper-bundle.min6947.js?v=82690176662100911181743108420" as="script">
-      <script src="../cdn/shop/t/13/assets/global2da0.js?v=163212196708363123271743108420" defer="defer"></script>
+<link rel="preload" href="cdn/shop/t/13/assets/lazysizes.minbf2e.js?v=94224023136283657951743108420" as="script">
+      <link rel="preload" href="cdn/shop/t/13/assets/vendor6ef7.js?v=137390005798566870981743108420" as="script">
+      <link rel="preload" href="cdn/shop/t/13/assets/swiper-bundle.min6947.js?v=82690176662100911181743108420" as="script">
+      <script src="cdn/shop/t/13/assets/global2da0.js?v=163212196708363123271743108420" defer="defer"></script>
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="jyojfj0uszo1ieex7yo0khl5oeypys">
 <meta name="google-site-verification" content="19KN_4lAqTd6G5KkP2W4G8vEbr-ViMM9jj3wAnzdfCQ">
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/91697545529/digital_wallets/dialog">
 <meta name="shopify-checkout-api-token" content="5f9ebbc6f226533908b1f5966c0709ab">
 <meta id="in-context-paypal-metadata" data-shop-id="91697545529" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
-<script async="async" src="../checkouts/internal/preloadsc494.js?locale=en-US"></script>
+<script async="async" src="checkouts/internal/preloadsc494.js?locale=en-US"></script>
 <link rel="preconnect" href="https://shop.app/" crossorigin="anonymous">
-<script async="async" src="../../shop.app/checkouts/internal/preloads51b0.js?locale=en-US&amp;shop_id=91697545529" crossorigin="anonymous"></script>
+<script async="async" src="../shop.app/checkouts/internal/preloads51b0.js?locale=en-US&amp;shop_id=91697545529" crossorigin="anonymous"></script>
 <script id="apple-pay-shop-capabilities" type="application/json">{"shopId":91697545529,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/91697545529","merchantName":"La Flawless","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"La Flawless","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
 <script id="shopify-features" type="application/json">{"accessToken":"5f9ebbc6f226533908b1f5966c0709ab","betas":["rich-media-storefront-analytics"],"domain":"la-flawless.com","predictiveSearch":true,"shopId":91697545529,"locale":"en"}</script>
 <script>var Shopify = Shopify || {};
@@ -382,7 +382,7 @@ Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
 Shopify.cdnHost = "la-flawless.com/cdn";
 Shopify.routes = Shopify.routes || {};
-Shopify.routes.root = "../index.html";</script>
+Shopify.routes.root = "index.html";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script>
@@ -390,12 +390,12 @@ Shopify.routes.root = "../index.html";</script>
   window.ShopifyPay.apiHost = "shop.app\/pay";
   window.ShopifyPay.redirectState = null;
 </script>
-<script id="shop-js-analytics" type="application/json">{"pageType":"page"}</script>
-<script defer="defer" async type="module" src="../cdn/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js"></script>
-<script defer="defer" async type="module" src="../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.js"></script>
+<script id="shop-js-analytics" type="application/json">{"pageType":"list-collections"}</script>
+<script defer="defer" async type="module" src="cdn/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js"></script>
+<script defer="defer" async type="module" src="cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.js"></script>
 <script type="module">
-  await import("../cdn/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js");
-await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.js");
+  await import("cdn/shopifycloud/shop-js/modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js");
+await import("cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.js");
 
   window.Shopify.SignInWithShop?.initShopCartSync?.({"fedCMEnabled":true,"windoidEnabled":true});
 
@@ -405,19 +405,19 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
   window.Shopify.featureAssets['shop-js'] = {"shop-cart-sync":["modules/v2/client.shop-cart-sync_CTGr-3o4.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-fed-cm":["modules/v2/client.init-fed-cm_CGF9jeV0.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"shop-button":["modules/v2/client.shop-button_BPsTvJyZ.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/client.init-shop-email-lookup-coordinator_Cbpsqg7d.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"shop-toast-manager":["modules/v2/client.shop-toast-manager_DOipcY5l.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-cart-sync":["modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"checkout-modal":["modules/v2/client.checkout-modal_BeUNN4fT.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-windoid":["modules/v2/client.init-windoid_Dk--3zzj.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/client.init-shop-for-new-customer-accounts_Dk0dH699.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-customer-accounts-sign-up":["modules/v2/client.init-customer-accounts-sign-up_C7rSmI9p.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"shop-cash-offers":["modules/v2/client.shop-cash-offers_CY4AWDtE.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"pay-button":["modules/v2/client.pay-button_By6CviVO.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"avatar":["modules/v2/client.avatar_BTnouDA3.en.esm.js"],"shop-follow-button":["modules/v2/client.shop-follow-button_BAbNbYmC.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-customer-accounts":["modules/v2/client.init-customer-accounts_NzKd5XoX.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"shop-login-button":["modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"lead-capture":["modules/v2/client.lead-capture_PHcU60pL.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"payment-terms":["modules/v2/client.payment-terms_BG7_anoE.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"]};
 </script>
-<script id="__st">var __st={"a":91697545529,"offset":-14400,"reqid":"a26402fb-95e8-44fa-904f-9f8cd1c7b294-1759737579","pageurl":"la-flawless.com\/pages\/contact","s":"pages-154419790137","u":"71989edc82cb","p":"page","rtyp":"page","rid":154419790137};</script>
+<script id="__st">var __st={"a":91697545529,"offset":-14400,"reqid":"97dcffaf-daf2-463b-9824-62af4b14313e-1759737576","pageurl":"la-flawless.com\/collections","u":"d2a0911ba4f8","p":"collections"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='../../cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
-<script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="../cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
-<script crossorigin="anonymous" defer="defer" src="../cdn/shopifycloud/storefront/assets/shopify_pay/storefront-65b4c6d75501.js?v=20250812"></script>
-<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="../cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+<script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='../cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
+<script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="cdn/shopifycloud/storefront/assets/shopify_pay/storefront-65b4c6d75501.js?v=20250812"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
 </script>
 <script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
   function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
 </script>
 <script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
 </script>
-<link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="../cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+<link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
 <style id="shopify-accelerated-checkout-cart">
         #shopify-buyer-consent {
   margin-top: 1em;
@@ -443,15 +443,15 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 }
 
       </style>
-<script id="sections-script" data-sections="parallax-banner,footer" defer="defer" src="../cdn/shop/t/13/compiled_assets/scriptsdc6a.js?469"></script>
+<script id="sections-script" data-sections="parallax-banner,footer" defer="defer" src="cdn/shop/t/13/compiled_assets/scriptsdc6a.js?469"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
   <link href="https://monorail-edge.shopifysvc.com/" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 91697545529,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,d,r,n,o){if(void 0===o&&(o={}),!Boolean(null===(a=null===(i=window.Shopify)||void 0===i?void 0:i.analytics)||void 0===a?void 0:a.replayQueue)){var i,a;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),u="modern"===l?"modern":"legacy",c=(null!=n?n:{modern:"",legacy:""})[u],f=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:d,hashVersion:r,buildTarget:u}),m=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST.html",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:r,bundleTarget:l,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{o.browserTarget=l,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,a&&(l.integrity=a,l.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{l.dataset[f]=s[f]}catch(e){}if(o&&l.addEventListener("load",o),i&&l.addEventListener("error",i),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:f,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){var d=window.webPixelsManager.init(e)||void 0;if(d){var r=window.Shopify.analytics;r.replayQueue.forEach((function(e){var r=e[0],n=e[1],o=e[2];d.publishCustomEvent(r,n,o)})),r.replayQueue=[],r.publish=d.publishCustomEvent,r.visitor=d.visitor,r.initialized=!0}}},onerror:function(){return m.emit({status:"failed",errorMsg:"".concat(f," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(c)?c:"",scriptDataAttributes:o}),m.emit({status:"loading"})}catch(e){m.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 91697545529,storefrontBaseUrl: "https://la-flawless.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"1155268921","configuration":"{\"config\":\"{\\\"pixel_id\\\":\\\"G-WZMP5GD7WT\\\",\\\"google_tag_ids\\\":[\\\"G-WZMP5GD7WT\\\",\\\"GT-TBWHMK96\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"b2a88bafab3e21179ed38636efcd8a93","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"1115750713","configuration":"{\"pixel_id\":\"1360095635355913\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"ca16bc87fe92b6042fbaa3acc2fbdaa6","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"La Flawless","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"c1dy1b-7z.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/la-flawless.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},"../cdn.html","4f0c5c77w64a73806p128ba08bma5b58f2f",{"modern":"","legacy":""},{"shopId":"91697545529","storefrontBaseUrl":"https:\/\/la-flawless.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[]","isMerchantRequest":"false","hashVersion":"4f0c5c77w64a73806p128ba08bma5b58f2f","publish":"custom","events":"[[\"page_viewed\",{}]]"});</script><script>
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {try {var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description;} catch {var session_token_from_headers = undefined;}var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/);var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : "";var session_token = session_token_from_headers || session_token_from_cookie || "";function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 91697545529,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token,page_type: "list-collections"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,d,r,n,o){if(void 0===o&&(o={}),!Boolean(null===(a=null===(i=window.Shopify)||void 0===i?void 0:i.analytics)||void 0===a?void 0:a.replayQueue)){var i,a;window.Shopify=window.Shopify||{};var t=window.Shopify;t.analytics=t.analytics||{};var s=t.analytics;s.replayQueue=[],s.publish=function(e,d,r){return s.replayQueue.push([e,d,r]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=function(){var e={modern:/Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/,legacy:/Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/},d=e.modern,r=e.legacy,n=navigator.userAgent;return n.match(d)?"modern":n.match(r)?"legacy":"unknown"}(),u="modern"===l?"modern":"legacy",c=(null!=n?n:{modern:"",legacy:""})[u],f=function(e){return[e.baseUrl,"/wpm","/b",e.hashVersion,"modern"===e.buildTarget?"m":"l",".js"].join("")}({baseUrl:d,hashVersion:r,buildTarget:u}),m=function(e){var d=e.version,r=e.bundleTarget,n=e.surface,o=e.pageUrl,i=e.monorailEndpoint;return{emit:function(e){var a=e.status,t=e.errorMsg,s=(new Date).getTime(),l=JSON.stringify({metadata:{event_sent_at_ms:s},events:[{schema_id:"web_pixels_manager_load/3.1",payload:{version:d,bundle_target:r,page_url:o,status:a,surface:n,error_msg:t},metadata:{event_created_at_ms:s}}]});if(!i)return console&&console.warn&&console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."),!1;try{return self.navigator.sendBeacon.bind(self.navigator)(i,l)}catch(e){}var u=new XMLHttpRequest;try{return u.open("POST.html",i,!0),u.setRequestHeader("Content-Type","text/plain"),u.send(l),!0}catch(e){return console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."),!1}}}}({version:r,bundleTarget:l,surface:e.surface,pageUrl:self.location.href,monorailEndpoint:e.monorailEndpoint});try{o.browserTarget=l,function(e){var d=e.src,r=e.async,n=void 0===r||r,o=e.onload,i=e.onerror,a=e.sri,t=e.scriptDataAttributes,s=void 0===t?{}:t,l=document.createElement("script"),u=document.querySelector("head"),c=document.querySelector("body");if(l.async=n,l.src=d,a&&(l.integrity=a,l.crossOrigin="anonymous"),s)for(var f in s)if(Object.prototype.hasOwnProperty.call(s,f))try{l.dataset[f]=s[f]}catch(e){}if(o&&l.addEventListener("load",o),i&&l.addEventListener("error",i),u)u.appendChild(l);else{if(!c)throw new Error("Did not find a head or body element to append the script");c.appendChild(l)}}({src:f,async:!0,onload:function(){if(!function(){var e,d;return Boolean(null===(d=null===(e=window.Shopify)||void 0===e?void 0:e.analytics)||void 0===d?void 0:d.initialized)}()){var d=window.webPixelsManager.init(e)||void 0;if(d){var r=window.Shopify.analytics;r.replayQueue.forEach((function(e){var r=e[0],n=e[1],o=e[2];d.publishCustomEvent(r,n,o)})),r.replayQueue=[],r.publish=d.publishCustomEvent,r.visitor=d.visitor,r.initialized=!0}}},onerror:function(){return m.emit({status:"failed",errorMsg:"".concat(f," has failed to load")})},sri:function(e){var d=/^sha384-[A-Za-z0-9+/=]+$/;return"string"==typeof e&&d.test(e)}(c)?c:"",scriptDataAttributes:o}),m.emit({status:"loading"})}catch(e){m.emit({status:"failed",errorMsg:(null==e?void 0:e.message)||"Unknown error"})}}})({shopId: 91697545529,storefrontBaseUrl: "https://la-flawless.com",extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager",monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"1155268921","configuration":"{\"config\":\"{\\\"pixel_id\\\":\\\"G-WZMP5GD7WT\\\",\\\"google_tag_ids\\\":[\\\"G-WZMP5GD7WT\\\",\\\"GT-TBWHMK96\\\"],\\\"target_country\\\":\\\"US\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"begin_checkout\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"search\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":[\\\"G-WZMP5GD7WT\\\",\\\"MC-99HYCRKTH4\\\"]},{\\\"type\\\":\\\"add_payment_info\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"},{\\\"type\\\":\\\"add_to_cart\\\",\\\"action_label\\\":\\\"G-WZMP5GD7WT\\\"}],\\\"enable_monitoring_mode\\\":false}\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"b2a88bafab3e21179ed38636efcd8a93","type":"APP","apiClientId":1780363,"privacyPurposes":[]},{"id":"1115750713","configuration":"{\"pixel_id\":\"1360095635355913\",\"pixel_type\":\"facebook_pixel\"}","eventPayloadVersion":"v1","runtimeContext":"OPEN","scriptVersion":"ca16bc87fe92b6042fbaa3acc2fbdaa6","type":"APP","apiClientId":2329312,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"APP","privacyPurposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0450","apiClientId":"shopify-pixel","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING"]}],isMerchantRequest: false,initData: {"shop":{"name":"La Flawless","paymentSettings":{"currencyCode":"USD"},"myshopifyDomain":"c1dy1b-7z.myshopify.com","countryCode":"US","storefrontUrl":"https:\/\/la-flawless.com"},"customer":null,"cart":null,"checkout":null,"productVariants":[],"purchasingCompany":null},},"cdn.html","4f0c5c77w64a73806p128ba08bma5b58f2f",{"modern":"","legacy":""},{"shopId":"91697545529","storefrontBaseUrl":"https:\/\/la-flawless.com","extensionBaseUrl":"https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager","surface":"storefront-renderer","enabledBetaFlags":"[]","isMerchantRequest":"false","hashVersion":"4f0c5c77w64a73806p128ba08bma5b58f2f","publish":"custom","events":"[[\"page_viewed\",{}]]"});</script><script>
   window.ShopifyAnalytics = window.ShopifyAnalytics || {};
   window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
   window.ShopifyAnalytics.meta.currency = 'USD';
-  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":154419790137}};
+  var meta = {"page":{"pageType":"collections"}};
   for (var attr in meta) {
     window.ShopifyAnalytics.meta[attr] = meta[attr];
   }
@@ -574,15 +574,15 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 
         };
         scriptFallback.async = true;
-        scriptFallback.src = '../cdn/s/trekkie.storefront.10b9e06bd1980b2ce8435c2fe6c8f07eb6305ae4.min.js';
+        scriptFallback.src = 'cdn/s/trekkie.storefront.10b9e06bd1980b2ce8435c2fe6c8f07eb6305ae4.min.js';
         first.parentNode.insertBefore(scriptFallback, first);
       };
       script.async = true;
-      script.src = '../cdn/s/trekkie.storefront.10b9e06bd1980b2ce8435c2fe6c8f07eb6305ae4.min.js';
+      script.src = 'cdn/s/trekkie.storefront.10b9e06bd1980b2ce8435c2fe6c8f07eb6305ae4.min.js';
       first.parentNode.insertBefore(script, first);
     };
     trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":91697545529,"isMerchantRequest":null,"themeId":176745873721,"themeCityHash":"8650445374202198465","contentLanguage":"en","currency":"USD","eventMetadataId":"909cb703-9e13-4e55-ad27-f6a7fb6937f6"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":91697545529,"isMerchantRequest":null,"themeId":176745873721,"themeCityHash":"8650445374202198465","contentLanguage":"en","currency":"USD","eventMetadataId":"8e94eb04-a3a8-4efe-afde-8d3a0d4fd975"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
     );
 
     var loaded = false;
@@ -597,7 +597,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":154419790137,"shopifyEmitted":true});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"collections","shopifyEmitted":true});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
@@ -610,17 +610,17 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 
         var eventsListenerScript = document.createElement('script');
         eventsListenerScript.async = true;
-        eventsListenerScript.src = "../cdn/shopifycloud/storefront/assets/shop_events_listener-abeef7a0.js";
+        eventsListenerScript.src = "cdn/shopifycloud/storefront/assets/shop_events_listener-abeef7a0.js";
         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
 })();</script>
 <script
   defer
-  src="../cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.13.min.js"
+  src="cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.13.min.js"
   data-application="storefront-renderer"
   data-shop-id="91697545529"
   data-render-region="gcp-asia-southeast1"
-  data-page-type="page"
+  data-page-type="list-collections"
   data-theme-instance-id="176745873721"
   data-theme-name="Aarau"
   data-theme-version="1.0"
@@ -632,7 +632,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   data-shs-logs-sample-rate="1"
 ></script>
 </head>
-  <body class="template-page body-theme ">
+  <body class="template-list-collections body-theme ">
    
     <img  width="99998" height="99999" alt="index" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+"><!-- loading.liquid -->
 <style>
@@ -734,7 +734,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
                     
 </div><div class="col-lg-4 col-left col-12">
                 <div class="text-center w-100 d-flex gap-2 justify-content-center text-body">
-                    Free shipping in the BD
+                    Free shipping in the U.S.
 </div>
                 </div><div class="col-4 col-right text-right d-none d-lg-flex justify-content-end">
 </div>
@@ -2479,6 +2479,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     .option-sidebar-bodywrap{
         overflow-y: auto;
     }</style>
+  
 @include('frontend.layouts.header2')
 <div class="group-fixed d-lg-flex d-none">
 
@@ -2527,39 +2528,33 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     </div>
   </div>
 </div></div><div id="shopify-section-sections--24382004330809__store-messages" class="shopify-section shopify-section-group-header-group"></div>
-<!-- END sections: header-group --><div class="page-container page-element is-moved-by-drawer"><main class="main-content" id="MainContent" role="main">
+<!-- END sections: header-group --><div class="page-container page-element is-moved-by-drawer">
+<main class="main-content" id="MainContent" role="main">
 
 
-          <section id="shopify-section-template--24382013931833__main" class="shopify-section spaced-section"><style>.page-title{margin-bottom:40px;}.main-content{padding:0;}.content-block--page ul,.content-block--page ol{padding-left:1rem;}</style>
-<div class="container">
-  <!-- <h1 class="text-center page-title">Contact</h1> -->
-  <div class="content-block--page ">
-    
-  </div>
-</div>
-</section><div id="shopify-section-template--24382013931833__parallax_banner_VeVwaq" class="shopify-section index-section"><!-- parallax-banner --><style>
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
-    --st-parallax-height :650px;
+          <div id="shopify-section-template--24382013702457__166340498714830ffb" class="shopify-section index-section"><!-- parallax-banner --><style>
+  .parallax-banner__wraper--template--24382013702457__166340498714830ffb {
+    --st-parallax-height :550px;
     --st-bgvideo-height-mb :450px;
     min-height : var(--st-parallax-height);
     padding-top:4rem;
     padding-bottom:4rem;
   }
   @media( max-width:749px){
-    .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
+    .parallax-banner__wraper--template--24382013702457__166340498714830ffb {
       min-height :  var(--st-bgvideo-height-mb);
     }
   }
   
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq .parallax-banner__meta{
+  .parallax-banner__wraper--template--24382013702457__166340498714830ffb .parallax-banner__meta{
     padding:40px;
   }
 
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq .parallax-banner__meta::before{
+  .parallax-banner__wraper--template--24382013702457__166340498714830ffb .parallax-banner__meta::before{
     background-color: rgba(0,0,0,0) ;
     opacity: 1;
   }
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq::before{
+  .parallax-banner__wraper--template--24382013702457__166340498714830ffb::before{
     content:"";
         position: absolute;
         top: 0;
@@ -2570,7 +2565,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
         background:#000000;
       opacity: 0.1;
   }
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
+  .parallax-banner__wraper--template--24382013702457__166340498714830ffb {
     
       --g-font-color-subtop: #ffffff;
       --g-color-heading :  #ffffff;
@@ -2579,24 +2574,24 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     
   }
   </style>
-<div class="customstyletemplate--24382013931833__parallax_banner_VeVwaq " data-aos=""><style data-shopify>.customstyletemplate--24382013931833__parallax_banner_VeVwaq{
+<div class="customstyletemplate--24382013702457__166340498714830ffb " data-aos="fade-up"><style data-shopify>.customstyletemplate--24382013702457__166340498714830ffb{
       background-color:#ffffff;
       padding: 0px 0px 0px 0px;
-      margin: 0px 0px 0px 0px;
+      margin: 0px 0px 60px 0px;
       
     }@media (max-width:750px){
-      .customstyletemplate--24382013931833__parallax_banner_VeVwaq{
+      .customstyletemplate--24382013702457__166340498714830ffb{
         padding: ;
         margin: 
       }
     }</style><div class="full">
 <div class="section-block"  >
-  <section class="d-flex align-items-center justify-content-center text-center parallax-template--24382013931833__parallax_banner_VeVwaq parallax-container parallax-banner__wraper  parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq parallax-banner__wraper--has-background" data-section-id="template--24382013931833__parallax_banner_VeVwaq" data-section-type="parallax-image" ><img src="../cdn/shop/files/d53cb0a3fdaade.jpg?v=1737380399&amp;width=3840" alt="" srcset="//la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=375 375w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=550 550w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=750 750w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1100 1100w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1500 1500w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1780 1780w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=2000 2000w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=3000 3000w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=3840 3840w" width="1000" height="667" loading="lazy" sizes="100vw" class="lazyload img-bg">
+  <section class="d-flex align-items-center justify-content-center text-center parallax-template--24382013702457__166340498714830ffb parallax-container parallax-banner__wraper  parallax-banner__wraper--template--24382013702457__166340498714830ffb parallax-banner__wraper--has-background" data-section-id="template--24382013702457__166340498714830ffb" data-section-type="parallax-image" ><img src="cdn/shop/files/Brandi_Photos-10dde.jpg?v=1742865150&amp;width=3840" alt="" srcset="//la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=375 375w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=550 550w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=750 750w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=1100 1100w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=1500 1500w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=1780 1780w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=2000 2000w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=3000 3000w, //la-flawless.com/cdn/shop/files/Brandi_Photos-1.jpg?v=1742865150&amp;width=3840 3840w" width="5472" height="3078" loading="lazy" sizes="100vw" class="lazyload img-bg">
  
        <div class="container">
         <div class="parallax-banner__meta text-center">
           
-<h2 class="mb-3 h2">Contact Us</h2>
+<h2 class="mb-3 h2">Collections</h2>
         
           <div class="parallax-banner__btn  justify-content-center  align-items-center"></div>
         </div>
@@ -2606,100 +2601,290 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 </div>
 </div>
 
-</div><div id="shopify-section-template--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9" class="shopify-section index-section"><!-- line.liquid -->
+</div><div id="shopify-section-template--24382013702457__main" class="shopify-section"><!-- list-collections-template.liquid -->
 <style>
-    .customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9 .border-custom{
-        border-top-width: 1px !important;
-        border-color: #e7e7e7 !important;
+   .main-content {
+    padding:0;
+   }
+  @media only screen and (min-width: 750px){
+    .main-content {
+        padding-bottom: 00px;
+        padding-top: 40px;
     }
-</style>
-<div class="customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9" data-aos="fade"><style data-shopify>.customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9{
-      background-color:#ffffff;
-      padding: 0px 0px 0px 0px;
-      margin: 0px 0px 0px 0px;
-      
-    }@media (max-width:750px){
-      .customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9{
-        padding: ;
-        margin: 
-      }
-    }</style><div class="full">
-      <div class="border-top border-custom">
-      </div>
-    </div>
-  </div>
+}
+  .collection-card__image .hv-image-saturate{
+    position: relative;
+    overflow:hidden;
+    display: block;
+    padding-top: 100% !important;
+  }
+  .collection-card__image img{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .collection-card__image .placeholder-svg{
+    top:0;
+    left:0;
+  }
+</style><div class="container" data-section-id="template--24382013702457__main" data-section-type="collections-list">
   
-  </div><section id="shopify-section-template--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6" class="shopify-section section">
-<style data-shopify>.customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6{
-      background-color:#ffffff;
-      padding: 80px 0px 80px 0px;
-      margin: 0px 0px 0px 0px;
-      
-    }@media (max-width:750px){
-      .customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6{
-        padding: 40px 0px 40px 0px;
-        margin: 0px 0px 0px 0px
-      }
-    }</style><div class="customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6">
-  <div class="contact container"><!-- section-heading.liquid - Apply for all section title -->
 
-<h3 class="h2 text-center   mb-2 " data-aos="" data-aos-duration="500">
-    <span>Got Any Questions?</span>
-  </h3><div class="font-family-2 mb-5 txt-body-70 text-center" data-aos="" data-aos-duration="800">We’d love to hear from you! Whether you have a question about our products, need assistance, or want to share your La Flawless experience, our team is here to help.</div><div class="row justify-content-center">
-        <div class="col-lg-9 col-12"><form method="post" action="https://la-flawless.com/contact#ContactForm" id="ContactForm" accept-charset="UTF-8" class="isolate"><input type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8" value="✓" /><div class="contact__fields">
-                <div class="row">
-                    <div class="col-lg-6 col-12">
-                        <div class="field form-group">
-                            <input class="field__input form-control" autocomplete="name" type="text" id="ContactForm-name" name="contact[Name]" value="" placeholder="Name">
-                            <label class="field__label" for="ContactForm-name">Name</label>
-                          </div>
-                    </div>
-                    <div class="col-lg-6 col-12">
-                        <div class="field field--with-error form-group">
-                            <input
-                              autocomplete="email"
-                              type="email"
-                              id="ContactForm-email"
-                              class="field__input form-control"
-                              name="contact[email]"
-                              spellcheck="false"
-                              autocapitalize="off"
-                              value=""
-                              aria-required="true"
-                              
-                              placeholder="Email"
-                            >
-                            <label class="field__label" for="ContactForm-email">Email <span aria-hidden="true">*</span></label></div>
-                    </div>
-                </div>
-            </div>
-            <div class="field form-group">
-              <input type="tel" id="ContactForm-phone" class="field__input form-control" autocomplete="tel" name="contact[Phone Number]" pattern="[0-9\-]*" value="" placeholder="Phone Number">
-              <label class="field__label" for="ContactForm-phone">Phone Number</label>
-            </div>
-            <div class="field form-group">
-              <textarea
-                rows="10"
-                id="ContactForm-body"
-                class="text-area field__input form-control form-control-area"
-                name="contact[Message]"
-                placeholder="Message"
-              ></textarea>
-              <label class="form__label field__label" for="ContactForm-body">Message</label>
-            </div>
-            <div class="contact__button text-center">
-              <button type="submit" class="button btn btn-theme">
-                  Send Question  <i class="ml-1 small icon-arrow-right"></i>
-              </button>
-            </div></form></div>
-    </div>
-    
-    
+      <div class="row grid--uniform collection" data-number-rows="4">
+        
+        
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/all-products.html"style="padding-top:123.66666666666669%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/14311c61a.jpg?crop=center&amp;height=1&amp;v=1742865457&amp;width=1"
+      data-src="cdn/shop/collections/14311d225.jpg?v=1742865457&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="0.8086253369272237"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="1484"></a>
   </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/all-products.html">
+      All Products
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">22
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/face-oil-collection.html"style="padding-top:135.5%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/IMG_9011-Edit24fd.jpg?crop=center&amp;height=1&amp;v=1736188839&amp;width=1"
+      data-src="cdn/shop/collections/IMG_9011-Edit0610.jpg?v=1736188839&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="0.7380073800738007"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="1626"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/face-oil-collection.html">
+      Face Oil Collection
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">1
+  
+Item
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/glass-skin-set.html"style="padding-top:100.0%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/files/RoseElixirHydratingToner044b.jpg?crop=center&amp;height=1&amp;v=1737386303&amp;width=1"
+      data-src="cdn/shop/files/RoseElixirHydratingToner1d40.jpg?v=1737386303&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.0"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="1200"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/glass-skin-set.html">
+      Glass skin set
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">2
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/hand-crafted-soap-collection.html"style="padding-top:133.33333333333334%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/WhatsApp_Image_2024-08-21_at_09.50.06_3d8bcb653555.jpg?crop=center&amp;height=1&amp;v=1736188892&amp;width=1"
+      data-src="cdn/shop/collections/WhatsApp_Image_2024-08-21_at_09.50.06_3d8bcb65ffd5.jpg?v=1736188892&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="0.75"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="1600"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/hand-crafted-soap-collection.html">
+      Hand Crafted Soap Collection
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">0
+  
+Item
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/home-page-view.html"style="padding-top:100.0%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/files/1_1ef51.jpg?crop=center&amp;height=1&amp;v=1737385695&amp;width=1"
+      data-src="cdn/shop/files/1_139b5.jpg?v=1737385695&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.0"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="1200"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/home-page-view.html">
+      home page view
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">6
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/hydrating-and-plumping-collection-special-offer-75.html"style="padding-top:70.33333333333334%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/IMG_8317e4a0.jpg?crop=center&amp;height=1&amp;v=1740274885&amp;width=1"
+      data-src="cdn/shop/collections/IMG_831768d2.jpg?v=1740274885&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.4218009478672986"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="844"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/hydrating-and-plumping-collection-special-offer-75.html">
+      Hydrating and Plumping Collection, special Offer $75
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">3
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/moisturizer-collection.html"style="padding-top:74.91666666666666%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/Moiturizer-176fe.png?crop=center&amp;height=1&amp;v=1736188729&amp;width=1"
+      data-src="cdn/shop/collections/Moiturizer-1e81b.png?v=1736188729&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.3348164627363737"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="899"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/moisturizer-collection.html">
+      Moisturizer Collection
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">3
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/restore-youth-collection.html"style="padding-top:66.83333333333333%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/IMG_3025-Edit-Edit41b4.jpg?crop=center&amp;height=1&amp;v=1736188548&amp;width=1"
+      data-src="cdn/shop/collections/IMG_3025-Edit-Editcf94.jpg?v=1736188548&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.4962593516209477"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="802"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/restore-youth-collection.html">
+      Restore Youth Collection
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">7
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/serum-collection.html"style="padding-top:66.99999999999999%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/IMG_9123-Edit5b59.jpg?crop=center&amp;height=1&amp;v=1736188796&amp;width=1"
+      data-src="cdn/shop/collections/IMG_9123-Edit048d.jpg?v=1736188796&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.492537313432836"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="804"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/serum-collection.html">
+      Serum Collection
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">6
+  
+Items
+</p>
+</div>
+<div class="collection-card-1 text-center  col-lg-4 col-12  " >
+  <div class="collection-card__image overflow-hidden position-relative">
+    <a class="hv-image-saturate image-content__image-wrapper " href="collections/toner-collection.html"style="padding-top:69.83333333333334%;"
+    >
+      <img class="lazyload transition scale-in" 
+      src="cdn/shop/collections/IMG_7583ccac.jpg?crop=center&amp;height=1&amp;v=1736188642&amp;width=1"
+      data-src="cdn/shop/collections/IMG_758315d1.jpg?v=1736188642&amp;width={width}"
+      data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 1944, 2048]"
+      data-aspectratio="1.431980906921241"
+      data-sizes="auto"
+      loading="lazy"
+      width="1200"
+      height="838"></a>
+  </div>
+  <h4 class="pt-3 m-0 ">
+    <a class="" href="collections/toner-collection.html">
+      Toner Collection
+    </a>
+  </h4>
+  <p class="pb-5 txt-body-60">4
+  
+Items
+</p>
+</div>
+      </div>
+    
+  
 </div>
 
 
-</section>
+
+
+</div>
 
       </main><!-- BEGIN sections: footer-group -->
 <div id="shopify-section-sections--24382004199737__newsletter-footer" class="shopify-section shopify-section-group-footer-group index-section"><!-- newsletter.liquid -->
@@ -3012,10 +3197,10 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 </style><footer class="site-footer  footer-sections--24382004199737__footer  footer-acc-mobile" data-section-type="footer"   data-section-id="sections--24382004199737__footer" data-acc="true" ><div class="site-footer--head">
   <div class="container-fluid">
     <div class="row"><div class="col-lg-3 col-md-6 " ><div class="site-footer__section text-lg-left "><div class=" footer-left"><div class="image-content__image-container logofooter mb-4" style="width: 230px;">
-                <a class="image-content__image-wrapper" href="../index.html" style="padding-top:22.29965156794425%;" ><img 
+                <a class="image-content__image-wrapper" href="index.html" style="padding-top:22.29965156794425%;" ><img 
                   class="lazyload transition img-logo" 
-                  src="../cdn/shop/files/La_Flawless_Black_b913554b-b3a9-49d8-b36d-9424efcec30b03bb.png?crop=center&amp;height=1&amp;v=1735920217&amp;width=1"
-                  data-srcset="../cdn/shop/files/La_Flawless_Black_b913554b-b3a9-49d8-b36d-9424efcec30b02a8.png?v=1735920217&amp;width={width}"
+                  src="cdn/shop/files/La_Flawless_Black_b913554b-b3a9-49d8-b36d-9424efcec30b03bb.png?crop=center&amp;height=1&amp;v=1735920217&amp;width=1"
+                  data-srcset="cdn/shop/files/La_Flawless_Black_b913554b-b3a9-49d8-b36d-9424efcec30b02a8.png?v=1735920217&amp;width={width}"
                   data-widths="[360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
                   data-aspectratio="4.484375"
                   data-sizes="auto"
@@ -3025,7 +3210,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
                 </a>
               </div><div class="rte-setting">Welcome to La Flawless Skin Care, where the pursuit of beauty meets the embrace of nature. Founded on the principles of harnessing the innate power of natural ingredients, our brand is a testament to the fusion of science and purity in skincare.</div>
           </div>
-        </div></div><div class="col-1-5 col-md-6 col-12 " ><div class="site-footer__section text-lg-left"><h4 class="h5 site-footer__section-title">Useful Links</h4><ul class="site-footer__list site-footer-block"><li class="site-footer__list-item"><a href="faqs.html">FAQ</a></li><li class="site-footer__list-item"><a href="terms-of-service.html">Terms Of Service</a></li><li class="site-footer__list-item"><a href="return-policy.html">Return Policy</a></li></ul>
+        </div></div><div class="col-1-5 col-md-6 col-12 " ><div class="site-footer__section text-lg-left"><h4 class="h5 site-footer__section-title">Useful Links</h4><ul class="site-footer__list site-footer-block"><li class="site-footer__list-item"><a href="pages/faqs.html">FAQ</a></li><li class="site-footer__list-item"><a href="pages/terms-of-service.html">Terms Of Service</a></li><li class="site-footer__list-item"><a href="pages/return-policy.html">Return Policy</a></li></ul>
         </div></div><div class="col-lg-3 col-md-6 " ><div class="site-footer__section text-lg-left "><h4 class="h5 site-footer__section-title">Contact Us</h4><div class="site-footer-block  footer-left"><div class="rte-setting"><div class=" rte">
 <p class="mt-3">Email: support@la-flawless.com
 
@@ -3257,13 +3442,13 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 </svg>
 </span>
   <div class="product-suggest ">
-    <a class="product-image " href="../index.html" title="">
+    <a class="product-image " href="index.html" title="">
       <span class="w-100 d-block product-notification-img position-relative auto">
         <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" loading="lazy" width="150" height="">
       </span>
     </a>
     <div class="column-right">
-      <label class="pr-2 mb-1">Someone recently bought <a class="product-name" href="../index.html"></a></label>
+      <label class="pr-2 mb-1">Someone recently bought <a class="product-name" href="index.html"></a></label>
       <div class="from-ago"></div>
       <div class="d-flex gap-3">
         <div class="d-flex gap-1 align-items-center">
@@ -3356,7 +3541,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
           <div class="col-12   mb-4">
             <div class="subtop mb-3"> Cookie Policy </div>
 This website uses cookies to ensure you get the best experience on our website.
-<a class="link" title="Read Privacy"  href="privacy-policy.html" target="_blank">Read Privacy</a></div>
+<a class="link" title="Read Privacy"  href="pages/privacy-policy.html" target="_blank">Read Privacy</a></div>
           <div class="col"><button class="btn js-btn-ok btn-theme btn-white mr-3">accept all</button><button class="btn js-btn-decline btn-outline btn-outline-white">Decline</button></div>
         </div>
       </div>
@@ -3484,17 +3669,17 @@ This website uses cookies to ensure you get the best experience on our website.
         <button type="button" class="close" ></button>
     </div>
     <ul class="drawer__nav menu-mobile-footer-content"><li class="drawer__nav-item">
-            <a href="../index.html" class="drawer__nav-link drawer__nav-link--top-level" >Home</a>
+            <a href="index.html" class="drawer__nav-link drawer__nav-link--top-level" >Home</a>
           </li><li class="drawer__nav-item">
-            <a href="../collections.html" class="drawer__nav-link drawer__nav-link--top-level" >Collection</a>
+            <a href="collections.html" class="drawer__nav-link drawer__nav-link--top-level"  aria-current="page">Collection</a>
           </li><li class="drawer__nav-item">
-            <a href="../collections/all-products.html" class="drawer__nav-link drawer__nav-link--top-level" >Shop</a>
+            <a href="collections/all-products.html" class="drawer__nav-link drawer__nav-link--top-level" >Shop</a>
           </li><li class="drawer__nav-item">
-            <a href="about-us.html" class="drawer__nav-link drawer__nav-link--top-level" >About Us</a>
+            <a href="pages/about-us.html" class="drawer__nav-link drawer__nav-link--top-level" >About Us</a>
           </li><li class="drawer__nav-item">
-            <a href="faqs.html" class="drawer__nav-link drawer__nav-link--top-level" >FAQs</a>
+            <a href="pages/faqs.html" class="drawer__nav-link drawer__nav-link--top-level" >FAQs</a>
           </li><li class="drawer__nav-item">
-            <a href="contact.html" class="drawer__nav-link drawer__nav-link--top-level"  aria-current="page">Contact</a>
+            <a href="pages/contact.html" class="drawer__nav-link drawer__nav-link--top-level" >Contact</a>
           </li></ul>
     <ul class="menu-mobile-footer drawer__nav">
       
@@ -3815,12 +4000,13 @@ This website uses cookies to ensure you get the best experience on our website.
   };
 </script>
 
-<script src="../cdn/shop/t/13/assets/lazysizes.minbf2e.js?v=94224023136283657951743108420" async="async"></script><script src="../cdn/shop/t/13/assets/vendor6ef7.js?v=137390005798566870981743108420" defer="defer"></script>
+<script src="cdn/shop/t/13/assets/lazysizes.minbf2e.js?v=94224023136283657951743108420" async="async"></script><script src="cdn/shop/t/13/assets/vendor6ef7.js?v=137390005798566870981743108420" defer="defer"></script>
 
-<script src="../cdn/shopifycloud/storefront/assets/themes_support/api.jquery-7ab1a3a4.js" defer="defer"></script>
-<script src="../cdn/shop/t/13/assets/swiper-bundle.min6947.js?v=82690176662100911181743108420" defer="defer"></script>
-<script src="../cdn/shop/t/13/assets/themee846.js?v=131436351804994872041743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/predictive-search0c01.js?v=134817452430011541641743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/optimize17ed.js?v=178288286106074372131743108420" defer="defer"></script><style> .image-content-6-2 {display: none;} </style>
+<script src="cdn/shopifycloud/storefront/assets/themes_support/api.jquery-7ab1a3a4.js" defer="defer"></script>
+<script src="cdn/shop/t/13/assets/swiper-bundle.min6947.js?v=82690176662100911181743108420" defer="defer"></script>
+<script src="cdn/shop/t/13/assets/themee846.js?v=131436351804994872041743108420" defer="defer"></script><script src="cdn/shop/t/13/assets/predictive-search0c01.js?v=134817452430011541641743108420" defer="defer"></script><script src="cdn/shop/t/13/assets/nouislider.mina133.js?v=52247572922176386261743108420" defer="defer"></script>
+<script src="cdn/shop/t/13/assets/facets4562.js?v=24929366230174044391743108420" defer="defer"></script><script src="cdn/shop/t/13/assets/optimize17ed.js?v=178288286106074372131743108420" defer="defer"></script><style> .image-content-6-2 {display: none;} </style>
 </body>
 
-<!-- Mirrored from la-flawless.com/pages/contact by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:37 GMT -->
+<!-- Mirrored from la-flawless.com/collections by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:03:22 GMT -->
 </html>

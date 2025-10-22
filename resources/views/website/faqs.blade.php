@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js " lang="en">
   
-<!-- Mirrored from la-flawless.com/pages/contact by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:34 GMT -->
+<!-- Mirrored from la-flawless.com/pages/faqs by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:30 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#282828">
     <meta name="format-detection" content="telephone=no">
-    <link rel="canonical" href="contact.html">
+    <link rel="canonical" href="faqs.html">
     <link rel="dns-prefetch" href="../index.html" crossorigin>
     <link rel="dns-prefetch" href="https://c1dy1b-7z.myshopify.com/" crossorigin>
     <link rel="dns-prefetch" href="https://cdn.shopify.com/" crossorigin>
@@ -18,7 +18,7 @@
     <link rel="preconnect" href="https/cdn.shopify.com" crossorigin>
     
     <link rel="preconnect" href="https://fonts.shopifycdn.com/" crossorigin><link rel="shortcut icon" href="../cdn/shop/files/FAVICONeff4.jpg?crop=center&amp;height=32&amp;v=1743622617&amp;width=32" type="image/png"><title>
-      Contact
+      FAQs
       
       
       
@@ -27,13 +27,13 @@
       
     </title>
       <meta name="description" content=""><!-- /snippets/social-meta-tags.liquid --><meta property="og:site_name" content="La Flawless">
-<meta property="og:url" content="contact.html">
-<meta property="og:title" content="Contact">
+<meta property="og:url" content="faqs.html">
+<meta property="og:title" content="FAQs">
 <meta property="og:type" content="website">
 <meta property="og:description" content="La Flawless">
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Contact">
+<meta name="twitter:title" content="FAQs">
 <meta name="twitter:description" content="La Flawless">
 <script>
   document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
@@ -405,7 +405,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
   window.Shopify.featureAssets['shop-js'] = {"shop-cart-sync":["modules/v2/client.shop-cart-sync_CTGr-3o4.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-fed-cm":["modules/v2/client.init-fed-cm_CGF9jeV0.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"shop-button":["modules/v2/client.shop-button_BPsTvJyZ.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-email-lookup-coordinator":["modules/v2/client.init-shop-email-lookup-coordinator_Cbpsqg7d.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"shop-toast-manager":["modules/v2/client.shop-toast-manager_DOipcY5l.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-cart-sync":["modules/v2/client.init-shop-cart-sync_xWpd_brA.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"checkout-modal":["modules/v2/client.checkout-modal_BeUNN4fT.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-windoid":["modules/v2/client.init-windoid_Dk--3zzj.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"init-shop-for-new-customer-accounts":["modules/v2/client.init-shop-for-new-customer-accounts_Dk0dH699.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-customer-accounts-sign-up":["modules/v2/client.init-customer-accounts-sign-up_C7rSmI9p.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"shop-cash-offers":["modules/v2/client.shop-cash-offers_CY4AWDtE.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"pay-button":["modules/v2/client.pay-button_By6CviVO.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js"],"avatar":["modules/v2/client.avatar_BTnouDA3.en.esm.js"],"shop-follow-button":["modules/v2/client.shop-follow-button_BAbNbYmC.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"init-customer-accounts":["modules/v2/client.init-customer-accounts_NzKd5XoX.en.esm.js","modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"shop-login-button":["modules/v2/client.shop-login-button_DjNzwLEG.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"lead-capture":["modules/v2/client.lead-capture_PHcU60pL.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"],"payment-terms":["modules/v2/client.payment-terms_BG7_anoE.en.esm.js","modules/v2/chunk.common_CuC-6Hab.esm.js","modules/v2/chunk.modal_D_9gyIXo.esm.js"]};
 </script>
-<script id="__st">var __st={"a":91697545529,"offset":-14400,"reqid":"a26402fb-95e8-44fa-904f-9f8cd1c7b294-1759737579","pageurl":"la-flawless.com\/pages\/contact","s":"pages-154419790137","u":"71989edc82cb","p":"page","rtyp":"page","rid":154419790137};</script>
+<script id="__st">var __st={"a":91697545529,"offset":-14400,"reqid":"c09233b9-36d2-4267-9807-acb4e8e1261a-1759737578","pageurl":"la-flawless.com\/pages\/faqs","s":"pages-155333886265","u":"3741f77928e9","p":"page","rtyp":"page","rid":155333886265};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='../../cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
 <script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="../cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
@@ -451,7 +451,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
   window.ShopifyAnalytics = window.ShopifyAnalytics || {};
   window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
   window.ShopifyAnalytics.meta.currency = 'USD';
-  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":154419790137}};
+  var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":155333886265}};
   for (var attr in meta) {
     window.ShopifyAnalytics.meta[attr] = meta[attr];
   }
@@ -582,7 +582,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
       first.parentNode.insertBefore(script, first);
     };
     trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":91697545529,"isMerchantRequest":null,"themeId":176745873721,"themeCityHash":"8650445374202198465","contentLanguage":"en","currency":"USD","eventMetadataId":"909cb703-9e13-4e55-ad27-f6a7fb6937f6"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":91697545529,"isMerchantRequest":null,"themeId":176745873721,"themeCityHash":"8650445374202198465","contentLanguage":"en","currency":"USD","eventMetadataId":"1af5fa5a-3561-47e6-8115-c99674c57a54"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"source":"trekkie-storefront-renderer","apiClientId":580111}}
     );
 
     var loaded = false;
@@ -597,7 +597,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
       try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
       document.write = originalDocumentWrite;
 
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":154419790137,"shopifyEmitted":true});
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":155333886265,"shopifyEmitted":true});
 
       var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
       var token = match? match[1]: undefined;
@@ -734,7 +734,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
                     
 </div><div class="col-lg-4 col-left col-12">
                 <div class="text-center w-100 d-flex gap-2 justify-content-center text-body">
-                    Free shipping in the BD
+                    Free shipping in the U.S.
 </div>
                 </div><div class="col-4 col-right text-right d-none d-lg-flex justify-content-end">
 </div>
@@ -2479,6 +2479,7 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     .option-sidebar-bodywrap{
         overflow-y: auto;
     }</style>
+  
 @include('frontend.layouts.header2')
 <div class="group-fixed d-lg-flex d-none">
 
@@ -2527,18 +2528,54 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     </div>
   </div>
 </div></div><div id="shopify-section-sections--24382004330809__store-messages" class="shopify-section shopify-section-group-header-group"></div>
-<!-- END sections: header-group --><div class="page-container page-element is-moved-by-drawer"><main class="main-content" id="MainContent" role="main">
+<!-- END sections: header-group --><div class="page-container page-element is-moved-by-drawer">
+<style>
+  .g-breadcrumb{
+    border-radius: 0;
+    flex-direction: column;
+    color:#000000 ;
+    padding:16px 0;
+    margin:0;
+    background:#ffffff;
+    border-top:1px solid rgba(0,0,0,0);
+  }
+  .g-breadcrumb a,.g-breadcrumb span{padding:0 3px;font-size:14px;line-height:20px;display:inline-block;}
+  .g-breadcrumb a{
+    color:#000000;
+  }
+  .g-breadcrumb .container,.g-breadcrumb .container-fluid{z-index: 2;position: relative;}
+  .br-title{
+    color:#000000
+  }
+  .br-title svg{
+    width: 23px;
+    height: 23px;
+  }
+
+</style>
+
+<nav class=" breadcrumb g-breadcrumb text-left" role="navigation" aria-label="breadcrumbs">
+  <div class="container">
+    <a href="../index.html" title="Home">Home</a>
+    
+    <span aria-hidden="true">/</span>
+    <span>FAQs</span>
+    
+  </div>
+</nav>
+
+<main class="main-content" id="MainContent" role="main">
 
 
-          <section id="shopify-section-template--24382013931833__main" class="shopify-section spaced-section"><style>.page-title{margin-bottom:40px;}.main-content{padding:0;}.content-block--page ul,.content-block--page ol{padding-left:1rem;}</style>
+          <section id="shopify-section-template--24382013964601__main" class="shopify-section spaced-section"><style>.page-title{margin-bottom:40px;}.main-content{padding:0;}.content-block--page ul,.content-block--page ol{padding-left:1rem;}</style>
 <div class="container">
-  <!-- <h1 class="text-center page-title">Contact</h1> -->
+  <!-- <h1 class="text-center page-title">FAQs</h1> -->
   <div class="content-block--page ">
     
   </div>
 </div>
-</section><div id="shopify-section-template--24382013931833__parallax_banner_VeVwaq" class="shopify-section index-section"><!-- parallax-banner --><style>
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
+</section><div id="shopify-section-template--24382013964601__parallax_banner_XP9Bi7" class="shopify-section index-section"><!-- parallax-banner --><style>
+  .parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7 {
     --st-parallax-height :650px;
     --st-bgvideo-height-mb :450px;
     min-height : var(--st-parallax-height);
@@ -2546,20 +2583,20 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     padding-bottom:4rem;
   }
   @media( max-width:749px){
-    .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
+    .parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7 {
       min-height :  var(--st-bgvideo-height-mb);
     }
   }
   
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq .parallax-banner__meta{
+  .parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7 .parallax-banner__meta{
     padding:40px;
   }
 
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq .parallax-banner__meta::before{
+  .parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7 .parallax-banner__meta::before{
     background-color: rgba(0,0,0,0) ;
     opacity: 1;
   }
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq::before{
+  .parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7::before{
     content:"";
         position: absolute;
         top: 0;
@@ -2567,10 +2604,10 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
         right: 0;
         bottom: 0;
         z-index: 1;
-        background:#000000;
+        background:rgba(0,0,0,0);
       opacity: 0.1;
   }
-  .parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq {
+  .parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7 {
     
       --g-font-color-subtop: #ffffff;
       --g-color-heading :  #ffffff;
@@ -2579,24 +2616,24 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
     
   }
   </style>
-<div class="customstyletemplate--24382013931833__parallax_banner_VeVwaq " data-aos=""><style data-shopify>.customstyletemplate--24382013931833__parallax_banner_VeVwaq{
+<div class="customstyletemplate--24382013964601__parallax_banner_XP9Bi7 " data-aos=""><style data-shopify>.customstyletemplate--24382013964601__parallax_banner_XP9Bi7{
       background-color:#ffffff;
       padding: 0px 0px 0px 0px;
       margin: 0px 0px 0px 0px;
       
     }@media (max-width:750px){
-      .customstyletemplate--24382013931833__parallax_banner_VeVwaq{
+      .customstyletemplate--24382013964601__parallax_banner_XP9Bi7{
         padding: ;
         margin: 
       }
     }</style><div class="full">
 <div class="section-block"  >
-  <section class="d-flex align-items-center justify-content-center text-center parallax-template--24382013931833__parallax_banner_VeVwaq parallax-container parallax-banner__wraper  parallax-banner__wraper--template--24382013931833__parallax_banner_VeVwaq parallax-banner__wraper--has-background" data-section-id="template--24382013931833__parallax_banner_VeVwaq" data-section-type="parallax-image" ><img src="../cdn/shop/files/d53cb0a3fdaade.jpg?v=1737380399&amp;width=3840" alt="" srcset="//la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=375 375w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=550 550w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=750 750w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1100 1100w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1500 1500w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=1780 1780w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=2000 2000w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=3000 3000w, //la-flawless.com/cdn/shop/files/d53cb0a3fd.jpg?v=1737380399&amp;width=3840 3840w" width="1000" height="667" loading="lazy" sizes="100vw" class="lazyload img-bg">
+  <section class="d-flex align-items-center justify-content-center text-center parallax-template--24382013964601__parallax_banner_XP9Bi7 parallax-container parallax-banner__wraper  parallax-banner__wraper--template--24382013964601__parallax_banner_XP9Bi7 parallax-banner__wraper--has-background" data-section-id="template--24382013964601__parallax_banner_XP9Bi7" data-section-type="parallax-image" ><img src="../cdn/shop/files/143116af0.jpg?v=1737380864&amp;width=3840" alt="" srcset="//la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=375 375w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=550 550w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=750 750w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=1100 1100w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=1500 1500w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=1780 1780w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=2000 2000w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=3000 3000w, //la-flawless.com/cdn/shop/files/14311.jpg?v=1737380864&amp;width=3840 3840w" width="1000" height="667" loading="lazy" sizes="100vw" class="lazyload img-bg">
  
        <div class="container">
         <div class="parallax-banner__meta text-center">
           
-<h2 class="mb-3 h2">Contact Us</h2>
+<h2 class="mb-3 h2">FAQs</h2>
         
           <div class="parallax-banner__btn  justify-content-center  align-items-center"></div>
         </div>
@@ -2606,100 +2643,597 @@ await import("../cdn/shopifycloud/shop-js/modules/v2/chunk.common_CuC-6Hab.esm.j
 </div>
 </div>
 
-</div><div id="shopify-section-template--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9" class="shopify-section index-section"><!-- line.liquid -->
+</div><div id="shopify-section-template--24382013964601__9ad78513-f48a-4eed-affd-30f6d370be1c" class="shopify-section index-section"><!-- faq-accordion.liquid -->
 <style>
-    .customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9 .border-custom{
-        border-top-width: 1px !important;
-        border-color: #e7e7e7 !important;
+   .customstyletemplate--24382013964601__9ad78513-f48a-4eed-affd-30f6d370be1c{ 
+      position: relative;
+      z-index: ;
+      background-position:center center !important;
+      background-repeat:no-repeat !important;
+      background-size:auto !important;
+    }
+    .card-faqs{
+        border-bottom: 1px solid #ebebeb;
+        padding: ;
+    }
+    .card-faqs:first-child{
+        border-top:1px solid #ebebeb;
+    }
+    .card-faqs-heading{
+        cursor: pointer;
+        position: relative;
+        padding-right: 60px;
+        
+    }
+    .faq-heading{
+      padding-top:1.25rem;
+      padding-bottom: 1.25rem;
+    }
+    .faq-heading .faq-icon{
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        font-size: 14px;
+        text-align: center;
+        position: absolute;
+        top: 10px;
+        right: 0;
+    }
+    .faq-heading .faq-icon i{
+        font-size: 14px;
+    }
+    .faq-heading .faq-icon i::before{
+        content: "\e92d";
+    }
+    .faq-heading.collapsed .faq-icon i::before{
+        content: "\e93d";
+    }
+    .faq-heading.collapsed .faq-icon{
+        background-color: transparent;
+    }
+    .card-faqs .card-body{
+      padding-top: 0;
+      padding-bottom: 1.5rem;
     }
 </style>
-<div class="customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9" data-aos="fade"><style data-shopify>.customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9{
+  <section class="customstyletemplate--24382013964601__9ad78513-f48a-4eed-affd-30f6d370be1c  lazyload " 
+  data-aos="fade-up"  
+  data-bgset=""
+  data-sizes="auto"
+  data-parent-fit="cover" 
+  ><style data-shopify>.customstyletemplate--24382013964601__9ad78513-f48a-4eed-affd-30f6d370be1c{
       background-color:#ffffff;
-      padding: 0px 0px 0px 0px;
+      padding: 48px 0px 60px 0px;
       margin: 0px 0px 0px 0px;
       
     }@media (max-width:750px){
-      .customstyletemplate--24382013931833__c025329d-7132-4163-b678-b778c06ac8f9{
-        padding: ;
-        margin: 
-      }
-    }</style><div class="full">
-      <div class="border-top border-custom">
-      </div>
-    </div>
-  </div>
-  
-  </div><section id="shopify-section-template--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6" class="shopify-section section">
-<style data-shopify>.customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6{
-      background-color:#ffffff;
-      padding: 80px 0px 80px 0px;
-      margin: 0px 0px 0px 0px;
-      
-    }@media (max-width:750px){
-      .customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6{
+      .customstyletemplate--24382013964601__9ad78513-f48a-4eed-affd-30f6d370be1c{
         padding: 40px 0px 40px 0px;
         margin: 0px 0px 0px 0px
       }
-    }</style><div class="customstyletemplate--24382013931833__863c2be4-cbba-4ba1-ba39-64e0fe639fc6">
-  <div class="contact container"><!-- section-heading.liquid - Apply for all section title -->
+    }</style><div class="container"><!-- section-heading.liquid - Apply for all section title -->
 
-<h3 class="h2 text-center   mb-2 " data-aos="" data-aos-duration="500">
-    <span>Got Any Questions?</span>
-  </h3><div class="font-family-2 mb-5 txt-body-70 text-center" data-aos="" data-aos-duration="800">We’d love to hear from you! Whether you have a question about our products, need assistance, or want to share your La Flawless experience, our team is here to help.</div><div class="row justify-content-center">
-        <div class="col-lg-9 col-12"><form method="post" action="https://la-flawless.com/contact#ContactForm" id="ContactForm" accept-charset="UTF-8" class="isolate"><input type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8" value="✓" /><div class="contact__fields">
-                <div class="row">
-                    <div class="col-lg-6 col-12">
-                        <div class="field form-group">
-                            <input class="field__input form-control" autocomplete="name" type="text" id="ContactForm-name" name="contact[Name]" value="" placeholder="Name">
-                            <label class="field__label" for="ContactForm-name">Name</label>
-                          </div>
-                    </div>
-                    <div class="col-lg-6 col-12">
-                        <div class="field field--with-error form-group">
-                            <input
-                              autocomplete="email"
-                              type="email"
-                              id="ContactForm-email"
-                              class="field__input form-control"
-                              name="contact[email]"
-                              spellcheck="false"
-                              autocapitalize="off"
-                              value=""
-                              aria-required="true"
-                              
-                              placeholder="Email"
-                            >
-                            <label class="field__label" for="ContactForm-email">Email <span aria-hidden="true">*</span></label></div>
-                    </div>
+<div class="subtop text-center text-top  mb-2 " data-aos="fade-up" data-aos-duration="300">FAQs – La Flawless Skin Care</div><h3 class="h2 text-center   mb-2 " data-aos="fade-up" data-aos-duration="500">
+    <span>General Questions</span>
+  </h3><div class="font-family-2 mb-5 txt-body-70 text-center" data-aos="fade-up" data-aos-duration="800">We’re here to answer your most common questions about our products and services. If you don’t find what you’re looking for, feel free to reach out to us directly!</div><div class="row  flex-row-reverse  justify-content-center"><div class="col-lg-9">
+                <div class="row  flex-row-reverse "><div class=" col-md-12  col-12" data-aos="fade-up" data-aos-duration="500"><div id="accordion-faqs" class="   mb-5 mb-lg-0"><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-0" aria-expanded="false" aria-controls="faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-0">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        What makes La Flawless Skin Care products unique?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-0" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Our products are crafted with natural ingredients, backed by scientific research, and free from harmful chemicals, parabens, and synthetic additives. We focus on clean beauty to ensure safe and effective skincare for all. </p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-1" aria-expanded="false" aria-controls="faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-1">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Are your products suitable for all skin types?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-1" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Yes! Our formulations are designed to be gentle and nurturing, making them suitable for all skin types, including sensitive skin.</p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-2" aria-expanded="false" aria-controls="faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-2">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Are La Flawless products cruelty-free?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-template--16736981942590__9ad78513-f48a-4eed-affd-30f6d370be1c-1666772143a4c26d1e-2" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Absolutely. We never test on animals, and our products are 100% cruelty-free.</p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_X7KmQX" aria-expanded="false" aria-controls="faq-faq_X7KmQX">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Are your products vegan?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_X7KmQX" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Many of our products are vegan. Please check the individual product descriptions for specific details.</p>
+                                </div>
+                            </div>
+                        </div></div></div>
+            </div>
+            </div></div></div>
+  </section>
+  
+  
+  </div><div id="shopify-section-template--24382013964601__062df5dc-f552-45ec-89c4-08fb863777b7" class="shopify-section index-section"><!-- faq-accordion.liquid -->
+<style>
+   .customstyletemplate--24382013964601__062df5dc-f552-45ec-89c4-08fb863777b7{ 
+      position: relative;
+      z-index: ;
+      background-position:center center !important;
+      background-repeat:no-repeat !important;
+      background-size:auto !important;
+    }
+    .card-faqs{
+        border-bottom: 1px solid #ebebeb;
+        padding: ;
+    }
+    .card-faqs:first-child{
+        border-top:1px solid #ebebeb;
+    }
+    .card-faqs-heading{
+        cursor: pointer;
+        position: relative;
+        padding-right: 60px;
+        
+    }
+    .faq-heading{
+      padding-top:1.25rem;
+      padding-bottom: 1.25rem;
+    }
+    .faq-heading .faq-icon{
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        font-size: 14px;
+        text-align: center;
+        position: absolute;
+        top: 10px;
+        right: 0;
+    }
+    .faq-heading .faq-icon i{
+        font-size: 14px;
+    }
+    .faq-heading .faq-icon i::before{
+        content: "\e92d";
+    }
+    .faq-heading.collapsed .faq-icon i::before{
+        content: "\e93d";
+    }
+    .faq-heading.collapsed .faq-icon{
+        background-color: transparent;
+    }
+    .card-faqs .card-body{
+      padding-top: 0;
+      padding-bottom: 1.5rem;
+    }
+</style>
+  <section class="customstyletemplate--24382013964601__062df5dc-f552-45ec-89c4-08fb863777b7  lazyload " 
+  data-aos="fade-up"  
+  data-bgset=""
+  data-sizes="auto"
+  data-parent-fit="cover" 
+  ><style data-shopify>.customstyletemplate--24382013964601__062df5dc-f552-45ec-89c4-08fb863777b7{
+      background-color:#ffffff;
+      padding: 0px 0px 80px 0px;
+      margin: 0px 0px 0px 0px;
+      
+    }@media (max-width:750px){
+      .customstyletemplate--24382013964601__062df5dc-f552-45ec-89c4-08fb863777b7{
+        padding: 40px 0px 40px 0px;
+        margin: 0px 0px 0px 0px
+      }
+    }</style><div class="container"><!-- section-heading.liquid - Apply for all section title -->
+
+<h3 class="h2 text-center   mb-5 " data-aos="fade-up" data-aos-duration="500">
+    <span>Ordering & Shipping</span>
+  </h3><div class="row  flex-row-reverse  justify-content-center"><div class="col-lg-9">
+                <div class="row  flex-row-reverse "><div class=" col-md-12  col-12" data-aos="fade-up" data-aos-duration="500"><div id="accordion-faqs" class="   mb-5 mb-lg-0"><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-0" aria-expanded="false" aria-controls="faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-0">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Where can I purchase La Flawless Skin Care products?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-0" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>You can shop our full range of products directly on our website.</p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_Uq8MpA" aria-expanded="false" aria-controls="faq-faq_Uq8MpA">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Do you offer international shipping?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_Uq8MpA" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Yes, we ship worldwide! Shipping fees and delivery times vary based on your location.</p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-1" aria-expanded="false" aria-controls="faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-1">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        How long does shipping take?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-1" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>For orders within the United States, shipping typically takes 3-7 business days. International shipping times may vary depending on the destination.</p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-2" aria-expanded="false" aria-controls="faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-2">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Can I track my order?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-template--16736981942590__062df5dc-f552-45ec-89c4-08fb863777b7-1666772143a4c26d1e-2" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Yes, once your order is shipped, you’ll receive a tracking number via email. </p>
+                                </div>
+                            </div>
+                        </div></div></div>
+            </div>
+            </div></div></div>
+  </section>
+  
+  
+  </div><div id="shopify-section-template--24382013964601__faq_accordion_UTw7zc" class="shopify-section index-section"><!-- faq-accordion.liquid -->
+<style>
+   .customstyletemplate--24382013964601__faq_accordion_UTw7zc{ 
+      position: relative;
+      z-index: ;
+      background-position:center center !important;
+      background-repeat:no-repeat !important;
+      background-size:auto !important;
+    }
+    .card-faqs{
+        border-bottom: 1px solid #ebebeb;
+        padding: ;
+    }
+    .card-faqs:first-child{
+        border-top:1px solid #ebebeb;
+    }
+    .card-faqs-heading{
+        cursor: pointer;
+        position: relative;
+        padding-right: 60px;
+        
+    }
+    .faq-heading{
+      padding-top:1.25rem;
+      padding-bottom: 1.25rem;
+    }
+    .faq-heading .faq-icon{
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        font-size: 14px;
+        text-align: center;
+        position: absolute;
+        top: 10px;
+        right: 0;
+    }
+    .faq-heading .faq-icon i{
+        font-size: 14px;
+    }
+    .faq-heading .faq-icon i::before{
+        content: "\e92d";
+    }
+    .faq-heading.collapsed .faq-icon i::before{
+        content: "\e93d";
+    }
+    .faq-heading.collapsed .faq-icon{
+        background-color: transparent;
+    }
+    .card-faqs .card-body{
+      padding-top: 0;
+      padding-bottom: 1.5rem;
+    }
+</style>
+  <section class="customstyletemplate--24382013964601__faq_accordion_UTw7zc  lazyload " 
+  data-aos="fade-up"  
+  data-bgset=""
+  data-sizes="auto"
+  data-parent-fit="cover" 
+  ><style data-shopify>.customstyletemplate--24382013964601__faq_accordion_UTw7zc{
+      background-color:#ffffff;
+      padding: 0px 0px 80px 0px;
+      margin: 0px 0px 0px 0px;
+      
+    }@media (max-width:750px){
+      .customstyletemplate--24382013964601__faq_accordion_UTw7zc{
+        padding: 40px 0px 40px 0px;
+        margin: 0px 0px 0px 0px
+      }
+    }</style><div class="container"><!-- section-heading.liquid - Apply for all section title -->
+
+<h3 class="h2 text-center   mb-5 " data-aos="fade-up" data-aos-duration="500">
+    <span>Returns & Exchanges</span>
+  </h3><div class="row  flex-row-reverse  justify-content-center"><div class="col-lg-9">
+                <div class="row  flex-row-reverse "><div class=" col-md-12  col-12" data-aos="fade-up" data-aos-duration="500"><div id="accordion-faqs" class="   mb-5 mb-lg-0"><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_jCY6QC" aria-expanded="false" aria-controls="faq-faq_jCY6QC">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        What is your return policy?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_jCY6QC" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>We accept returns within 30 days of purchase for unused and unopened products. For more details, visit our *Returns & Refunds Policy* page.  <br/></p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_3Vi6Tj" aria-expanded="false" aria-controls="faq-faq_3Vi6Tj">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        How do I initiate a return or exchange?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_3Vi6Tj" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Simply contact our customer service team at [support@laflawless.com](mailto:support@laflawless.com) with your order details, and we’ll guide you through the process.</p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_ftR6yw" aria-expanded="false" aria-controls="faq-faq_ftR6yw">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Title
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_ftR6yw" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Answer Description</p>
+                                </div>
+                            </div>
+                        </div></div></div>
+            </div>
+            </div></div></div>
+  </section>
+  
+  
+  </div><div id="shopify-section-template--24382013964601__faq_accordion_F348iz" class="shopify-section index-section"><!-- faq-accordion.liquid -->
+<style>
+   .customstyletemplate--24382013964601__faq_accordion_F348iz{ 
+      position: relative;
+      z-index: ;
+      background-position:center center !important;
+      background-repeat:no-repeat !important;
+      background-size:auto !important;
+    }
+    .card-faqs{
+        border-bottom: 1px solid #ebebeb;
+        padding: ;
+    }
+    .card-faqs:first-child{
+        border-top:1px solid #ebebeb;
+    }
+    .card-faqs-heading{
+        cursor: pointer;
+        position: relative;
+        padding-right: 60px;
+        
+    }
+    .faq-heading{
+      padding-top:1.25rem;
+      padding-bottom: 1.25rem;
+    }
+    .faq-heading .faq-icon{
+        display: inline-block;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        font-size: 14px;
+        text-align: center;
+        position: absolute;
+        top: 10px;
+        right: 0;
+    }
+    .faq-heading .faq-icon i{
+        font-size: 14px;
+    }
+    .faq-heading .faq-icon i::before{
+        content: "\e92d";
+    }
+    .faq-heading.collapsed .faq-icon i::before{
+        content: "\e93d";
+    }
+    .faq-heading.collapsed .faq-icon{
+        background-color: transparent;
+    }
+    .card-faqs .card-body{
+      padding-top: 0;
+      padding-bottom: 1.5rem;
+    }
+</style>
+  <section class="customstyletemplate--24382013964601__faq_accordion_F348iz  lazyload " 
+  data-aos="fade-up"  
+  data-bgset=""
+  data-sizes="auto"
+  data-parent-fit="cover" 
+  ><style data-shopify>.customstyletemplate--24382013964601__faq_accordion_F348iz{
+      background-color:#ffffff;
+      padding: 0px 0px 80px 0px;
+      margin: 0px 0px 0px 0px;
+      
+    }@media (max-width:750px){
+      .customstyletemplate--24382013964601__faq_accordion_F348iz{
+        padding: 40px 0px 40px 0px;
+        margin: 0px 0px 0px 0px
+      }
+    }</style><div class="container"><!-- section-heading.liquid - Apply for all section title -->
+
+<h3 class="h2 text-center   mb-5 " data-aos="fade-up" data-aos-duration="500">
+    <span>Product Use</span>
+  </h3><div class="row  flex-row-reverse  justify-content-center"><div class="col-lg-9">
+                <div class="row  flex-row-reverse "><div class=" col-md-12  col-12" data-aos="fade-up" data-aos-duration="500"><div id="accordion-faqs" class="   mb-5 mb-lg-0"><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_wYxrBG" aria-expanded="false" aria-controls="faq-faq_wYxrBG">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        How do I know which products are right for my skin?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_wYxrBG" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Check out our product descriptions and benefits listed on our website, or contact us for personalized recommendations. </p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_h7Daer" aria-expanded="false" aria-controls="faq-faq_h7Daer">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Can I use multiple La Flawless products together?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_h7Daer" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Answer DescriptionYes, our products are designed to complement each other for a complete skincare routine.  <br/></p>
+                                </div>
+                            </div>
+                        </div><div class="card-faqs">
+                            <div class="card-faqs-heading" >
+                                <h4 class="mb-0 h6">
+                                    <span class="faq-heading d-flex align-items-center collapsed" data-toggle="collapse" data-target="#faq-faq_CmFkbR" aria-expanded="false" aria-controls="faq-faq_CmFkbR">
+                                        <span class="faq-icon">
+                                        <i class="icon-plus"></i>
+                                        </span>
+                                        Are your products safe during pregnancy?
+                                    </span>
+                                </h4>
+                            </div>
+                            <div id="faq-faq_CmFkbR" class="pl-2 collapse " aria-labelledby="headingOne" data-parent="#accordion-faqs">
+                                <div class="card-body px-0">
+                                    <p>Most of our products are safe for use during pregnancy, but we recommend consulting your healthcare provider for specific concerns.</p>
+                                </div>
+                            </div>
+                        </div></div></div>
+            </div>
+            </div></div></div>
+  </section>
+  
+  
+  </div><div id="shopify-section-template--24382013964601__e3f9b59b-307f-4380-8307-f05ffecaaef0" class="shopify-section index-section-custom"><!-- rich-text.liquid --><style data-shopify>.customstyletemplate--24382013964601__e3f9b59b-307f-4380-8307-f05ffecaaef0{
+      background-color:#ffffff;
+      padding: 10px 0px 100px 0px;
+      margin: 0px 0px 0px 0px;
+      
+    }@media (max-width:750px){
+      .customstyletemplate--24382013964601__e3f9b59b-307f-4380-8307-f05ffecaaef0{
+        padding: 40px 0px 40px 0px;
+        margin: 0px 0px 0px 0px
+      }
+    }</style><style>
+  .customstyletemplate--24382013964601__e3f9b59b-307f-4380-8307-f05ffecaaef0{
+    background: ;
+    
+  }
+  .hero-img__wrap{
+    width: var(--img-in-hero);
+  }
+</style>
+<div class="customstyletemplate--24382013964601__e3f9b59b-307f-4380-8307-f05ffecaaef0" data-aos="fade-up" >
+  <div class="container">
+  <div class="section-block">
+    <div class="row justify-content-center">
+      <div class="col-lg-7 col-12">
+      <div class="text-center">
+      
+<h2 class="mb-3 h3">Didn't find your answer?</h2>
+<div class="m-0 parallax-banner__sub rte mb-3 txt-body">
+                  Don't hestitate to contact us
                 </div>
-            </div>
-            <div class="field form-group">
-              <input type="tel" id="ContactForm-phone" class="field__input form-control" autocomplete="tel" name="contact[Phone Number]" pattern="[0-9\-]*" value="" placeholder="Phone Number">
-              <label class="field__label" for="ContactForm-phone">Phone Number</label>
-            </div>
-            <div class="field form-group">
-              <textarea
-                rows="10"
-                id="ContactForm-body"
-                class="text-area field__input form-control form-control-area"
-                name="contact[Message]"
-                placeholder="Message"
-              ></textarea>
-              <label class="form__label field__label" for="ContactForm-body">Message</label>
-            </div>
-            <div class="contact__button text-center">
-              <button type="submit" class="button btn btn-theme">
-                  Send Question  <i class="ml-1 small icon-arrow-right"></i>
-              </button>
-            </div></form></div>
+
+      <div class="d-flex justify-content-center align-items-center gap-4"><div class="mt-3 mb-1">
+                    <a href="contact.html" class="btn btn-theme">
+                      Contact us
+                    </a>
+                  </div></div>
     </div>
-    
-    
   </div>
+    </div>
+  </div>
+</div>
 </div>
 
 
-</section>
+
+
+</div>
 
       </main><!-- BEGIN sections: footer-group -->
 <div id="shopify-section-sections--24382004199737__newsletter-footer" class="shopify-section shopify-section-group-footer-group index-section"><!-- newsletter.liquid -->
@@ -3492,9 +4026,9 @@ This website uses cookies to ensure you get the best experience on our website.
           </li><li class="drawer__nav-item">
             <a href="about-us.html" class="drawer__nav-link drawer__nav-link--top-level" >About Us</a>
           </li><li class="drawer__nav-item">
-            <a href="faqs.html" class="drawer__nav-link drawer__nav-link--top-level" >FAQs</a>
+            <a href="faqs.html" class="drawer__nav-link drawer__nav-link--top-level"  aria-current="page">FAQs</a>
           </li><li class="drawer__nav-item">
-            <a href="contact.html" class="drawer__nav-link drawer__nav-link--top-level"  aria-current="page">Contact</a>
+            <a href="contact.html" class="drawer__nav-link drawer__nav-link--top-level" >Contact</a>
           </li></ul>
     <ul class="menu-mobile-footer drawer__nav">
       
@@ -3822,5 +4356,5 @@ This website uses cookies to ensure you get the best experience on our website.
 <script src="../cdn/shop/t/13/assets/themee846.js?v=131436351804994872041743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/predictive-search0c01.js?v=134817452430011541641743108420" defer="defer"></script><script src="../cdn/shop/t/13/assets/optimize17ed.js?v=178288286106074372131743108420" defer="defer"></script><style> .image-content-6-2 {display: none;} </style>
 </body>
 
-<!-- Mirrored from la-flawless.com/pages/contact by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:37 GMT -->
+<!-- Mirrored from la-flawless.com/pages/faqs by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 06 Oct 2025 08:04:33 GMT -->
 </html>

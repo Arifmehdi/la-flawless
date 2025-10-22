@@ -3216,7 +3216,7 @@
                                         }
                                         </style>
                                         <h1 class="site-header__logo  has-logo " itemscope
-                                            itemtype="http://schema.org/Organization"><a href="index.html"
+                                            itemtype="http://schema.org/Organization"><a href="{{ route('laf.home') }}"
                                                 itemprop="url" class="site-header__logo-link"><img
                                                     src="cdn/shop/files/La_Flawless_Black_b913554b-b3a9-49d8-b36d-9424efcec30b260e.png?v=1735920217&amp;width=390"
                                                     alt="La Flawless"
@@ -3233,11 +3233,11 @@
                                                     <span class="site-nav__title">Home</span></a>
                                             </li>
                                             <li class="site-nav__item">
-                                                <a href="collections.html" class="site-nav__link">
+                                                <a href="{{ route('collections') }}" class="site-nav__link">
                                                     <span class="site-nav__title">Collection</span></a>
                                             </li>
                                             <li class="site-nav__item">
-                                                <a href="collections/all-products.html" class="site-nav__link">
+                                                <a href="{{ route('all.products') }}" class="site-nav__link">
                                                     <span class="site-nav__title">Shop</span></a>
                                             </li>
                                             <li class="site-nav__item">
@@ -3245,7 +3245,7 @@
                                                     <span class="site-nav__title">About Us</span></a>
                                             </li>
                                             <li class="site-nav__item">
-                                                <a href="pages/faqs.html" class="site-nav__link">
+                                                <a href="{{ route('faqs') }}" class="site-nav__link">
                                                     <span class="site-nav__title">FAQs</span></a>
                                             </li>
                                             <li class="site-nav__item">
@@ -3570,7 +3570,7 @@
                                                         </style>
                                                         <h1 class="site-header__logo  has-logo " itemscope
                                                             itemtype="http://schema.org/Organization"><a
-                                                                href="index.html" itemprop="url"
+                                                                href="{{ route('laf.home') }}" itemprop="url"
                                                                 class="site-header__logo-link"><img
                                                                     src="cdn/shop/files/La_Flawless_Black_b913554b-b3a9-49d8-b36d-9424efcec30b260e.png?v=1735920217&amp;width=390"
                                                                     alt="La Flawless"

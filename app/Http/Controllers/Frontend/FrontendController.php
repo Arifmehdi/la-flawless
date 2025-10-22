@@ -61,6 +61,21 @@ class FrontendController extends Controller
         return view('website.about');  
     }
 
+    public function faqs()
+    {
+        return view('website.faqs');  
+    }
+
+    public function allProducts()
+    {
+        return view('website.allProducts');  
+    }
+
+    public function collections()
+    {
+        return view('website.collections');  
+    }
+
     //     public function product()
     // {
     //     return view('frontend.product');
